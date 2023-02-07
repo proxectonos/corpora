@@ -38,7 +38,6 @@ Corpus de audio e texto aliñados
 
 **Corpus de avaliación sintáctica:** Primeiros recursos libres para a avaliación das capacidades sintácticas de modelos de lingua para galego e portugués. 
 
-**Corpus de composición semántica:**
+**Corpus de composición semántica:** Dataset empregado por equipos de diversas partes do mundo para o modelado semántico de expresións multipalabra en galego. **Resultado**: Corpus incluído na SubTask A de SemEval 2022 (https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity)
 
-**Avaliación de modelos neuronais:** Avaliacións das capacidades sintácticas e semánticas de modelos de lingua neuronais para o galego. Estas avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. A introdución dun corpus galego en SemEval permitiu que equipos de todo o mundo traballasen no modelado da composicionalidade semántica en galego. 
-Resultado: Publicación de 2 artigos de investigación e organización dunha tarefa de avaliación que incluíu o galego (SemEval 2022, Task 2: https://sites.google.com/view/semeval2022task2-idiomaticity/home)
+**Avaliación de modelos neuronais:** Avaliacións das capacidades sintácticas e semánticas de modelos de lingua neuronais para o galego. Estas avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. A introdución dun corpus galego en SemEval permitiu que equipos de todo o mundo traballasen no modelado da composicionalidade semántica en galego. **Resultado:** Publicación de 2 artigos de investigación e organización dunha tarefa de avaliación que incluíu o galego (SemEval 2022, Task 2: https://sites.google.com/view/semeval2022task2-idiomaticity/home)
