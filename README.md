@@ -16,7 +16,7 @@ Corpus de audio e texto aliñados
 
 ### Recursos lingüísticos libres para adestrar modelos neuronais
 
-**Corpus paralelos GL/ES e GL/EN:** Foron obtidos, mellorados e transformados diferentes corpus paralelos GL/ES e GL/EN para poder ser utilizados por sistemas de tradución automatica neuronal. Podemos falar de dous tipos de corpus: auténticos e sintéticos. Os auténticos son aqueles que foron construídos adhoc para os pares ES-GL e EN-GL. Os sintéticos son aqueles transformados para galego desde corpus ES-PT e EN-PT mediante técnicas de transliteración e tradución automática PT-GL co tradutor Opentrad/Apertium.  
+**Corpus paralelos GL/ES e GL/EN:** Foron obtidos, mellorados e transformados diferentes corpus paralelos GL/ES e GL/EN para poder ser utilizados por sistemas de tradución automatica neuronal. Podemos falar de dous tipos de corpus: auténticos e sintéticos. Os auténticos son aqueles que foron construídos adhoc para os pares ES-GL e EN-GL. Os sintéticos son aqueles transformados para galego desde corpus auténticos ES-PT e EN-PT mediante técnicas de transliteración e tradución automática PT-GL co tradutor Opentrad/Apertium.  
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles                         | Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | -------------------------------- |------------------- |
