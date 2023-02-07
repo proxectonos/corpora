@@ -34,10 +34,3 @@ Corpus de audio e texto aliñados
 | Nos_GL_WEB      | GL             | Auténtico             | 555M palabras / 633M tokens      |                     |
 
 
-### Recursos lingüísticos libres para investigación
-
-**Corpus de avaliación sintáctica:** Primeiros recursos libres para a avaliación das capacidades sintácticas de modelos de lingua para galego e portugués. 
-
-**Corpus de composición semántica**
-
-
