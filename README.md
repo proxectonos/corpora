@@ -1,4 +1,4 @@
-# Corpora
+# Corpora 
 Nesta sección pode acceder a distintos corpora de texto ou voz (monolingües en galego e multilingües), que pode adaptar para as súas tarefas. Todos estes recursos poden ser descargados a partir do site Zenodo, sendo Zenodo un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
 
 In this section you can access different text or voice corpus (Galician monolingual and multilingual) that you can adapt to your tasks. All these resources can be downloaded from the Zenodo site, being Zenodo an open repository of general use operated by CERN and developed within the scope of the European programme OpenAIRE: a network of open access repositories, archives and journals supporting open access policies in Europe.
@@ -34,3 +34,11 @@ Corpus de audio e texto aliñados
 | Nos_GL_WEB      | GL             | Auténtico             | 555M palabras / 633M tokens      |                     |
 
 
+### Recursos lingüísticos libres para investigación
+
+**Corpus de avaliación sintáctica:** Primeiros recursos libres para a avaliación das capacidades sintácticas de modelos de lingua para galego e portugués. 
+
+**Corpus de composición semántica:**
+
+**Avaliación de modelos neuronais:** Avaliacións das capacidades sintácticas e semánticas de modelos de lingua neuronais para o galego. Estas avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. A introdución dun corpus galego en SemEval permitiu que equipos de todo o mundo traballasen no modelado da composicionalidade semántica en galego. 
+Resultado: Publicación de 2 artigos de investigación e organización dunha tarefa de avaliación que incluíu o galego (SemEval 2022, Task 2: https://sites.google.com/view/semeval2022task2-idiomaticity/home)
