@@ -5,7 +5,7 @@ In this section you can access different text or voice corpus (Galician monoling
 
 ## Voz
 
-Corpus de voz para síntese
+Corpus de voz para ASR: Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
 
 Banco de voces
 
