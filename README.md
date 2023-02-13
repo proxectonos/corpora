@@ -1,7 +1,7 @@
-# Corpora 
-Nesta sección pode acceder a distintos corpora de texto ou voz (monolingües en galego e multilingües), que pode adaptar para as súas tarefas. Todos estes recursos poden ser descargados a partir do site Zenodo, sendo Zenodo un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
+# Corpus 
+Nesta sección pode acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do site Zenodo (https://zenodo.org/communities/proxecto-nos/?page=1&size=20), sendo Zenodo un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
 
-In this section you can access different text or voice corpus (Galician monolingual and multilingual) that you can adapt to your tasks. All these resources can be downloaded from the Zenodo site, being Zenodo an open repository of general use operated by CERN and developed within the scope of the European programme OpenAIRE: a network of open access repositories, archives and journals supporting open access policies in Europe.
+In this section you can access different corpora of text or voice in Galician (monolingual and multilingual), which can be adapted for different tasks. All these resources can be downloaded with free licenses from the Zenodo site (https://zenodo.org/communities/proxecto-nos/?page=1&size=20), Zenodo being an open repository for general use administered by CERN and developed in the scope of the European program OpenAIRE: a network of repositories, archives and open access journals that supports the policies of open access in Europe.
 
 ## Voz
 
