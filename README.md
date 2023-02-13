@@ -21,15 +21,15 @@ In this section you can access different text or voice corpus (Galician monoling
 
 ### Corpus monolingües en galego
 
-Neste apartado están os diferentes corpus monolingües en galego que poden ser utilizados para diferentes tarefas. 
+Neste apartado describimos os diferentes corpus monolingües en galego que poderán ser descargados con licenzas libres.
 
 **Corpus monolingüe textual escala web (Nos_GL_WEB):** 
 
-Compilouse un corpus textual a escala web, que inclúe texto xornalístico, administrativo, enciclopédico, e de redes sociais. Este recurso ten máis de 550 millóns de palabras (máis de 633 millóns de tokens), e está en constante ampliación, limpeza, e organización. Para alén de compilarmos o recurso en formato texto, foi procesado con ferramentas computacionais para a súa etiquetaxe lingüística (lematización, anotación morfosintáctica, e análise sintáctica de dependencias). 
+Corpus textual a escala web, que inclúe texto xornalístico, administrativo, enciclopédico, e de redes sociais. Este recurso ten máis de 550 millóns de palabras (máis de 633 millóns de tokens), e está en constante ampliación, limpeza, e organización. Para alén de compilarmos o recurso en formato texto, foi procesado con ferramentas computacionais para a súa etiquetaxe lingüística (lematización, anotación morfosintáctica, e análise sintáctica de dependencias). 
 
 **Novo corpus web para o galego (Nos_GL_WEB_CCNET):** 
 
-Foi elaborado un corpus textual do galego a partir do crawling da web e, a partir deste, foi construído un modelo de lingua en formato SentencePiece. Estes desenvolvementos foron levados a cabo mediante o uso das ferramentas e datos do proxecto CCNet, de Meta/Facebook. Tanto o corpus como o modelo están dispoñíbeis baixo licenzas libres.  
+Corpus textual de galego a partir do crawling da web mediante o uso de ferramentas e datos do proxecto CCNet (Meta/Facebook). 
 
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles                         | Descargar (Zenodo)  |
@@ -40,7 +40,7 @@ Foi elaborado un corpus textual do galego a partir do crawling da web e, a parti
 
 ### Corpus bilingües en galego
 
-Os corpus paralelos son corpus de traducións humanas entre galego e outras linguas, necesarios para adestrar por exemplo sistemas de tradución automática. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. Os segundos son aqueles transformados para galego mediante diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
+Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles                         | Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | -------------------------------- |------------------- |
