@@ -55,5 +55,5 @@ Obtivéronse dous datasets de máis de 3000 pares de datos tabulares aliñados c
 Desenvolvéronse os primeiros recursos públicos para a avaliación das capacidades sintácticas e semánticas de modelos de lingua para galego e portugués. As avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas ([Dataset](https://github.com/marcospln/PROPOR2022-gl-pt), [Modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints)).
 
 **Corpus de composición semántica:** 
-Dataset empregado por equipos de diversas partes do mundo para o modelado semántico de expresións multipalabra en galego. A introdución deste dataset galego no evento SemEval 2022 (Task 2) permitiu que equipos de todo o mundo traballasen no modelado semántico en galego [Dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
+Dataset empregado por equipos de diversas partes do mundo para o modelado semántico de expresións multipalabra en galego. A introdución deste dataset galego no evento SemEval 2022 (Task 2) permitiu que equipos de todo o mundo traballasen no modelado semántico en galego ([Dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity)).
 
