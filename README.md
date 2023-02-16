@@ -26,14 +26,18 @@ In this section you can access different corpora of text or voice in Galician (m
 Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles      | Subcorpus          |Descargar (Zenodo) |
-| --------------  | -------------- | --------------------- | --------------|------------------- |                   |
-| Nos_ES-GL-aut   | es-gl_aut         | Auténtico             | 71M de frases | ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018                   |                   |
-| Nos_EN-GL_aut   | en-gl-aut         | Auténtico             | 30M de frases |                    |                   |
-ccmatrix,wikimatrix,cluvi
-| Nos_ES-GL_sin   | es-gl_sin       | Sintético             | 30M de frases |                    |                   |
-europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
-| Nos_EN-GL_sin   | es-gl_sin       | Sintético             | 30M de frases |                    |                   |
-opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
+| --------------  | -------------- | --------------------- | --------------|------------------- |-------------------|
+| Nos_ES-GL-aut   | es-gl_aut      | Auténtico             | 36M de frases |                    |                   |
+| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de frases |                    |                   |
+| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de frases |                    |                   |
+| Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |                   |
+
+
+ES.GL.aut: ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018 
+EN.GL.aut: ccmatrix,wikimatrix,cluvi
+ES.GL.sin: europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
+EN.GL.sin: opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
+
 
 #### Corpus de avaliación
 
