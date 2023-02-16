@@ -33,10 +33,10 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 | Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |                   |
 
 
-ES.GL.aut: ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018 
-EN.GL.aut: ccmatrix,wikimatrix,cluvi
-ES.GL.sin: europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
-EN.GL.sin: opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
++ ES.GL.aut: ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018 
++ EN.GL.aut: ccmatrix,wikimatrix,cluvi
++ ES.GL.sin: europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
++ EN.GL.sin: opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
 
 
 #### Corpus de avaliación
