@@ -33,10 +33,10 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 | Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |                   |
 
 
-+ Nos_ES-GL-aut inclúe os seguintes corpus: ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018. 
-+ Nos_EN-GL_aut: ccmatrix,wikimatrix,cluvi
-+ Nos_ES-GL_sin: europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
-+ Nos_EN-GL_sin: opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
++ Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
++ Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, cluvi
++ Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak
++ Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, opus-en-pt_gl, ted2020-en-pt_gl, corgabak
 
 
 #### Corpus de avaliación
