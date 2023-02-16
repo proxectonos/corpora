@@ -46,7 +46,7 @@ opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
 | Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |                    |
 | Nos_MT_Test-suite-EN-GL   | en-gl          | 364 frases    |                    |
 
-### Outros corpus
+### Outros recursos
 
 **Corpus nun dominio específico:**
 Obtivéronse dous datasets de máis de 3000 pares de datos tabulares aliñados con comentarios descritivos, un para o castelán e outro para o galego. O corpus en galego é o primeiro corpus para sistemas Data-To-Text en galego coñecido. Estes datasets foron obtidos a partir da base de datos de MeteoGalicia que conta con datos meteorolóxicos dos últimos 10 anos e textos descritivos bilingües escritos polos expertos meteorólogos pertencentes á institución. Cada un dos datasets foi revisado e anotado manualmente para incrementar a súa calidade textual e editado para limitar as descricións a aqueles fenómenos relacionados directamente cos datos numéricos. 
