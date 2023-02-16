@@ -19,35 +19,16 @@ In this section you can access different corpora of text or voice in Galician (m
 
 ## Texto
 
-### Corpus monolingües en galego
-
-Neste apartado describimos os diferentes corpus monolingües en galego que poderán ser descargados con licenzas libres.
-
-**Corpus monolingüe textual escala web (Nos_GL_WEB):** 
-
-Corpus textual a escala web, que inclúe texto xornalístico, administrativo, enciclopédico, e de redes sociais. Este recurso ten máis de 550 millóns de palabras (máis de 633 millóns de tokens), e está en constante ampliación, limpeza, e organización. Para alén de compilarmos o recurso en formato texto, foi procesado con ferramentas computacionais para a súa etiquetaxe lingüística (lematización, anotación morfosintáctica, e análise sintáctica de dependencias). 
-
-**Novo corpus web para o galego (Nos_GL_WEB_CCNET):** 
-
-Corpus textual de galego a partir do crawling da web mediante o uso de ferramentas e datos do proxecto CCNet (Meta/Facebook). 
-
-
-| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles                         | Descargar (Zenodo)  |
-| --------------  | -------------- | --------------------- | -------------------------------- |-------------------  |
-| Nos_GL_WEB      | GL             | Auténtico             | 555M palabras / 633M tokens      |                     |
-| Nos_GL_WEB_CCNET| GL             | Auténtico             | 555M palabras / 633M tokens      |                     |
-
-
-### Corpus bilingües en galego
+### Corpus bilingües paralelos que inclúen o galego
 
 Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles                         | Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | -------------------------------- |------------------- |
-| Nos_ES-GL       | GL-ES          | Auténtico             | 15M de frases                    |                    |
-| Nos_EN-GL       | GL-EN          | Auténtico             | 30M de frases                    |                    |
-| Nos_ES-GL_PT    | GL_PT-ES       | Sintético             | 30M de frases                    |                    |
-| Nos_EN-GL_PT    | GL_PT-EN       | Sintético             | 30M de frases                    |                    |
+| Nos_ES-GL-aut   | GL-ES          | Auténtico             | 15M de frases                    |                    |
+| Nos_EN-GL_aut   | GL-EN          | Auténtico             | 30M de frases                    |                    |
+| Nos_ES-GL_sin   | GL_PT-ES       | Sintético             | 30M de frases                    |                    |
+| Nos_EN-GL_sin   | GL_PT-EN       | Sintético             | 30M de frases                    |                    |
 
 
 
