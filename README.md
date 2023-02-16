@@ -27,7 +27,7 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles      | Subcorpus          |Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | --------------|------------------- |                   |
-| Nos_ES-GL-aut   | es-gl_aut         | Auténtico             | 15M de frases | ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018                   |                   |
+| Nos_ES-GL-aut   | es-gl_aut         | Auténtico             | 71M de frases | ccmatrix,cluvi,gnome,kde,paracrawl,ubuntu,wikimedia,wikimatrix,opensubtitles-es-gl,ted2020,opensubtitles2018                   |                   |
 | Nos_EN-GL_aut   | en-gl-aut         | Auténtico             | 30M de frases |                    |                   |
 ccmatrix,wikimatrix,cluvi
 | Nos_ES-GL_sin   | es-gl_sin       | Sintético             | 30M de frases |                    |                   |
@@ -37,13 +37,14 @@ opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
 
 #### Corpus de avaliación
 
-| Nome do Corpus      | Lingua/s       | Auténtico / Sintético | Detalles      | Subcorpus         |Descargar (Zenodo) |
-| ------------------- | -------------- | --------------------- | --------------|-------------------|-------------------|
-| Nos_MT_Gold-ES-GL_1 | es-gl          | Auténtico             | 1998 frases   |                   |                   |
-| Nos_MT_Gold-ES-GL_2 | en-gl          | Auténtico             | 1998 frases   |                   |                   |
-| Nos_MT_Gold-EN-GL_1 | en-gl          | Auténtico             | 1777 frases   |                   |                   |
-| Nos_MT_Gold-EN-GL_2 | en-gl          | Auténtico             | 1777 frases   |                   |                   |
-
+| Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
+| ------------------------- | -------------- | ------------- | -------------------|
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |                    |
+| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |                    |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |                    |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |                    |
+| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |                    |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364 frases    |                    |
 
 ### Outros corpus
 
