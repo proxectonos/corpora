@@ -19,7 +19,9 @@ In this section you can access different corpora of text or voice in Galician (m
 
 ## Texto
 
-### Corpus bilingües paralelos que inclúen o galego
+### Tradución automática
+
+#### Corpus bilingües paralelos que inclúen o galego
 
 Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
@@ -33,6 +35,14 @@ europarl-es-pt_gl,opensubtitles-es-pt_gl,dgt-es-pt_gl,corgabak
 | Nos_EN-GL_sin   | es-gl_sin       | Sintético             | 30M de frases |                    |                   |
 opensub-en-pt_gl,europarl-en-pt_gl,opus-en-pt_gl,ted2020-en-pt_gl,corgabak
 
+#### Corpus de avaliación
+
+| Nome do Corpus      | Lingua/s       | Auténtico / Sintético | Detalles      | Subcorpus         |Descargar (Zenodo) |
+| ------------------- | -------------- | --------------------- | --------------|-------------------|-------------------|
+| Nos_MT_Gold-ES-GL_1 | es-gl          | Auténtico             | 1998 frases   |                   |                   |
+| Nos_MT_Gold-ES-GL_2 | en-gl          | Auténtico             | 1998 frases   |                   |                   |
+| Nos_MT_Gold-EN-GL_1 | en-gl          | Auténtico             | 1777 frases   |                   |                   |
+| Nos_MT_Gold-EN-GL_2 | en-gl          | Auténtico             | 1777 frases   |                   |                   |
 
 
 ### Outros corpus
