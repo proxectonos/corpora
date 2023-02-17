@@ -27,7 +27,7 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles      | Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | --------------|------------------- |
-| Nos_ES-GL-aut   | es-gl_aut      | Auténtico             | 36M de frases |                    |
+| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de frases |                    |
 | Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de frases |                    |
 | Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de frases |                    |
 | Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |
@@ -43,12 +43,12 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
 | ------------------------- | -------------- | ------------- | -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |                    |
-| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |                    |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |                    |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |                    |
-| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |                    |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364 frases    |                    |
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |         url        |
+| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |         url        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |         url        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |         url        |
+| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |         url        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  frases   |         url        |
 
 ### Outros recursos
 
