@@ -28,7 +28,7 @@ In this section you can access different corpora of text or voice in Galician (m
 
 | Nome do Corpus        | Lingua/s       | Detalles      | Descargar (Zenodo) |
 | --------------------  | -------------- | --------------|------------------- |
-| Nos_Celtia-GL         | gl_manual      |               | 36M de frases      |
+| Nos_Celtia-GL         | gl             |               | 36M de frases      |
 
 
 ## Texto
