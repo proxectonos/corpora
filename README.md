@@ -9,14 +9,16 @@ In this section you can access different corpora of text or voice in Galician (m
 
 **Corpus de voz do Parlamento de Galicia:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
 
-| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles      | Descargar (Zenodo) |
-| --------------  | -------------- | --------------------- | --------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de frases |                    |
-| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de frases |                    |
-| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de frases |                    |
-| Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |
+| Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
+| -------------------  | -------------- | --------------------- | --------------|------------------- |
+| Nos_ParlaSpeech-GL   | gl_autom       | Automático            | 36M de frases |                    |
+
 
 **Corpus de voz do ILG:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do ILG. 
+
+| Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
+| -------------------  | -------------- | --------------------- | --------------|------------------- |
+| Nos_ILG-GL           | gl_manual      | Manual                | 36M de frases |                    |
 
 ### TTS (Síntese de fala)
 
