@@ -50,19 +50,19 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
 + Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, cluvi.
 + Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
-+ Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, opus-en-pt_gl, ted2020-en-pt_gl, corgabak.
++ Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, opus-en-pt_gl, ted2020-en-pt_gl, corgaback.
 
 
 #### Corpus de avaliación
 
 | Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
 | ------------------------- | -------------- | ------------- | -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |         url        |
-| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |         url        |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |         url        |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |         url        |
-| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |         url        |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  frases   |         url        |
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
+| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
+| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  frases   |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
 
 ### Outros recursos
 
