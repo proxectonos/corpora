@@ -7,6 +7,8 @@ In this section you can access different corpora of text or voice in Galician (m
 
 ### ASR (Recoñecemento de fala)
 
+
+
 **Corpus de voz do Parlamento de Galicia:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
 
 | Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
@@ -24,7 +26,10 @@ In this section you can access different corpora of text or voice in Galician (m
 
 **Voz Proxecto Nós:** Corpus de voz para TTS (1 locutora).
 
-**Mostra TTS voz feminina:** Mostra de voz de 4 locutoras para test perceptual (selección da voz máis axeitada para TTS).
+| Nome do Corpus        | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
+| --------------------  | -------------- | --------------------- | --------------|------------------- |
+| Nos_Celtia-GL         | gl_manual      | Manual                | 36M de frases |                    |
+
 
 ## Texto
 
