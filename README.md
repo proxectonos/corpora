@@ -26,9 +26,9 @@ In this section you can access different corpora of text or voice in Galician (m
 
 **Voz Proxecto Nós:** Corpus de voz para TTS (1 locutora).
 
-| Nome do Corpus        | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| --------------------  | -------------- | --------------------- | --------------|------------------- |
-| Nos_Celtia-GL         | gl_manual      | Manual                | 36M de frases |                    |
+| Nome do Corpus        | Lingua/s       | Detalles      | Descargar (Zenodo) |
+| --------------------  | -------------- | --------------|------------------- |
+| Nos_Celtia-GL         | gl_manual      |               | 36M de frases      |
 
 
 ## Texto
