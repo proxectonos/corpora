@@ -16,9 +16,9 @@ In this section you can access different corpora of text or voice in Galician (m
 
 **Corpus de voz do ILG:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do ILG. 
 
-| Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| -------------------  | -------------- | --------------------- | --------------|------------------- |
-| Nos_ILG-GL           | gl_manual      | Manual                | 36M de frases |                    |
+| Nome do Corpus        | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
+| --------------------  | -------------- | --------------------- | --------------|------------------- |
+| Nos_TranscriSpeech-GL | gl_manual      | Manual                | 36M de frases |                    |
 
 ### TTS (Síntese de fala)
 
