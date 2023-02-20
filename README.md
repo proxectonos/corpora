@@ -9,26 +9,30 @@ In this section you can access different corpora of text or voice in Galician (m
 
 
 
-**Corpus de voz do Parlamento de Galicia:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
+#### Corpus de voz do Parlamento de Galicia
+
+Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
 
 | Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| -------------------  | -------------- | --------------------- | --------------|------------------- |
+| ---------------------| -------------- | --------------------- | ------------- |------------------- |
 | Nos_ParlaSpeech-GL   | gl_autom       | Automático            | 36M de frases |                    |
 
 
-**Corpus de voz do ILG:** Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do ILG. 
+#### Corpus de voz do ILG
+
+Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do ILG. 
 
 | Nome do Corpus        | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| --------------------  | -------------- | --------------------- | --------------|------------------- |
+| ----------------------| -------------- | --------------------- | ------------- |------------------- |
 | Nos_TranscriSpeech-GL | gl_manual      | Manual                | 36M de frases |                    |
 
 ### TTS (Síntese de fala)
 
 **Voz Proxecto Nós:** Corpus de voz para TTS (1 locutora).
 
-| Nome do Corpus        | Lingua/s       | Detalles      | Descargar (Zenodo) |
-| --------------------  | -------------- | --------------|------------------- |
-| Nos_Celtia-GL         | gl             |               | 36M de frases      |
+| Nome do Corpus        | Lingua/s       | Detalles      | Descargar (Zenodo)                     |
+| --------------------  | -------------- | --------------|--------------------------------------- |
+| Nos_Celtia-GL         | gl             |               | 36M de frases                          |
 
 
 ## Texto
@@ -48,7 +52,7 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
-+ Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, opus, cluvi.
++ Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
 + Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
 + Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
 
