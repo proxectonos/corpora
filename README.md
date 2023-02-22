@@ -5,34 +5,54 @@ In this section you can access different corpora of text or voice in Galician (m
 
 ## Voz
 
-### ASR (Recoñecemento de fala)
+### Recoñecemento da fala (ASR)
+
+Nesta sección describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
+A continuación detallamos os corpus en galego para ASR desenvolvidos dentro do Proxecto Nós. 
+
+#### Nos_ParlaSpeech-GL
+
+Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun total de máis de 1500 horas, creado a partir das sesións plenarias celebradas no Parlamento de Galicia entre os anos 2015 e 2022.
+
+O corpus divídese en dous subcorpus, “clean” e “other”, que constan de XX e XX horas respectivamente. Os segmentos incluídos en “clean” foron filtrados de acordo con varios criterios de calidade, mentres que o subcorpus “other” recolle os segmentos descartados neste filtrado.
+
+Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint), pódense consultar neste [enlace](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
+
+O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio no formato WAV a 16 kHz e 16 bits.
+
+#### Nos_TranscriSpeech-GL
+
+Corpus de voz para ASR (texto e voz aliñados) de dominio variado, con transcrición e aliñamento manuais e cun total de 53 horas.
+
+O corpus divídese en catro subcorpus temáticos: Conferencias, Entrevistas, Debates e Discursos.
+
+Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 16 kHz e 16 bits, e os ficheiros de texto aliñado en formato .stm e .trf. Acompáñase o corpus dos metadatos para cada locutor, cando estes son coñecidos, e da guía empregada na realización das transcricións.
 
 
-
-#### Corpus de voz do Parlamento de Galicia
-
-Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do Parlamento. 
-
-| Nome do Corpus       | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| ---------------------| -------------- | --------------------- | ------------- |------------------- |
-| Nos_ParlaSpeech-GL   | gl_autom       | Automático            | 36M de frases |                    |
+| Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
+| ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.800 horas (~1M segmentos)  | [url]()            |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url]()            |
 
 
-#### Corpus de voz do ILG
+### Síntese de voz (TTS)
 
-Corpus de voz para ASR (texto e voz aliñados) creado a partir dos datos do ILG. 
+Neste apartado describimos corpus de voz deseñados para o adestramento de sistemas de síntese de voz (TTS) en galego. Para este fin, o texto a ser gravado debe ser coidadosamente seleccionado para ser balanceado e representativo, e as gravacións deben ser de alta calidade e sen ruídos. A continuación detallamos os corpus en galego para TTS desenvolvidos dentro do Proxecto Nós.
 
-| Nome do Corpus        | Lingua/s       | Manual / Automático   | Detalles      | Descargar (Zenodo) |
-| ----------------------| -------------- | --------------------- | ------------- |------------------- |
-| Nos_TranscriSpeech-GL | gl_manual      | Manual                | 36M de frases |                    |
+#### Nos_Celtia-GL
 
-### TTS (Síntese de fala)
+Corpus de voz monolingüe monolocutor para TTS cun total de 30 horas.
 
-**Voz Proxecto Nós:** Corpus de voz para TTS (1 locutora).
+Nos_Celtia-GL é un corpus fonética e morfosintacticamente balanceado de 20.000 frases (aproximadamente 200.000 palabras) integrado por dous subcorpus: un corpus previo creado polo Grupo de Tecnoloxías Multimedia (GTM), en colaboración co Centro Ramón Piñeiro para a Investigación en Humanidades (CRPIH) e un corpus elaborado dentro do Proxecto Nós a partir de textos de dominio variado.
 
-| Nome do Corpus        | Lingua/s       | Detalles      | Descargar (Zenodo)                     |
-| --------------------  | -------------- | --------------|--------------------------------------- |
-| Nos_Celtia-GL         | gl             |               | 36M de frases                          |
+O corpus foi gravado por unha voz feminina profesional escollida entre catro locutoras a partir dun test perceptivo realizado por máis de 50 persoas con mostras de catro voces onde se valoraba a claridade, a entoación, a agradabilidade e o nivel de lingua.
+
+Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 30 horas.
+
+
+| Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
+| --------------------  | -------------- | -----------------------------|---------------------------------- |
+| Nos_Celtia-GL         | gl             |  ~30 horas (20.000 frases)   | [url]()                           |
 
 
 ## Texto
