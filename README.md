@@ -59,12 +59,12 @@ Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 
 
 Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
-| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles      | Descargar (Zenodo) |
-| --------------  | -------------- | --------------------- | --------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de frases |                    |
-| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de frases |                    |
-| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de frases |                    |
-| Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases |                    |
+| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
+| --------------  | -------------- | --------------------- | ----------------|------------------- |
+| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de oracións |                    |
+| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de frases   |                    |
+| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de frases   |                    |
+| Nos_EN-GL_sin   | es-gl_sin      | Sintético             | 29M de frases   |                    |
 
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
@@ -77,12 +77,12 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
 | ------------------------- | -------------- | ------------- | -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 frases   |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
-| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 frases   |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 frases   |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 frases   |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
-| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  frases   |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  frases   |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
+| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
+| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  oracións |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  oracións |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
 
 ## Outros recursos
 
