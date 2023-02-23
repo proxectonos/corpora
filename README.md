@@ -24,7 +24,7 @@ Corpus de voz para ASR (texto e voz aliñados) de dominio variado, con transcric
 
 O corpus divídese en catro subcorpus temáticos: Conferencias, Entrevistas, Debates e Discursos.
 
-Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 16 kHz e 16 bits, e os ficheiros de texto aliñado en formato .stm e .trf. Acompáñase o corpus dos metadatos para cada locutor, cando estes son coñecidos, e da guía empregada na realización das transcricións.
+Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV, e os ficheiros de texto aliñado en formato .stm e .trf. Acompáñase o corpus dos metadatos para cada locutor, cando estes son coñecidos, e da guía empregada na realización das transcricións.
 
 
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
