@@ -61,9 +61,9 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
 | --------------  | -------------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de oracións |                    |
+| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de oracións | [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
 | Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de oracións |                    |
-| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de oracións |                    |
+| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de oracións | [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)                   |
 | Nos_EN-GL_sin   | en-gl_sin      | Sintético             | 29M de oracións |                    |
 
 
