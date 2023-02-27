@@ -1,92 +1,87 @@
 # Corpus 
 
-In this section you can access different corpora of text or voice in Galician (monolingual and multilingual), which can be adapted for different tasks. All these resources can be downloaded with free licenses from our [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) site. Zenodo is an open repository for general use administered by CERN and developed in the scope of the European program OpenAIRE: a network of repositories, archives and open access journals that supports the policies of open access in Europe.
+In this section you can find several text and speech corpora in Galician (both monolingual and multilingual) that can be adapted for different tasks. All these resources can be downloaded under an open-source license from this [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) site. Zenodo is a general-purpose open repository managed by CERN and developed in the area of the European program OpenAIRE: an open-source network for repositories, files and journals that support open-source policies in Europe. 
 
-## Recoñecemento da fala (ASR)
+## Automatic Speech Recognition (ASR)
 
-Nesta sección describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
-A continuación detallamos os corpus en galego para ASR desenvolvidos dentro do Proxecto Nós. 
+In this section, aligned text and speech corpus are described, which can be used for training or evaluating Automatic Speech Recognition systems (ASR). For this purpose, audio resources must be segmented and aligned together with the corresponding text, a task that can be manually or automatically done (forced alignment). Galician corpora developed within the Nós project for ASR are described below. 
 
 ### Nos_ParlaSpeech-GL
 
-Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun total de máis de 1500 horas, creado a partir das sesións plenarias celebradas no Parlamento de Galicia entre os anos 2015 e 2022.
+Speech corpus for ASR (speech and text aligned) of more than 1,500 hours, made with automatic alignment, and created from plenaries at the Galician Parliament between 2015 and 2022.
 
-O corpus divídese en dous subcorpus, “clean” e “other”, que constan de XX e XX horas respectivamente. Os segmentos incluídos en “clean” foron filtrados de acordo con varios criterios de calidade, mentres que o subcorpus “other” recolle os segmentos descartados neste filtrado.
+The corpus is divided into two subcorpora, “clean” and “other”, containing XX and XX hours respectively. Segments included in the “clean” subcorpus were screened following different quality criteria, whereas the “other” subcorpus contains the rejected segments in the filtering process.
 
-Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
-
-O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio no formato WAV a 16 kHz e 16 bits.
+In addition, every segment is linked to the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint) project can be found by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). The corpus is available in .stm and .json formats, and audio files in WAV format (16 kHz, 16 bits).
 
 ### Nos_TranscriSpeech-GL
 
-Corpus de voz para ASR (texto e voz aliñados) de dominio variado, con transcrición e aliñamento manuais e cun total de 53 horas.
+Speech corpus for ASR (speech and text aligned) of different domains, containing 53 hours, with transcriptions and manual alignment. The corpus is divided into four thematic subcorpora: conferences, interviews, debates and speeches. 
 
-O corpus divídese en catro subcorpus temáticos: Conferencias, Entrevistas, Debates e Discursos.
-
-Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV, e os ficheiros de texto aliñado en formato .stm e .trf. Acompáñase o corpus dos metadatos para cada locutor, cando estes son coñecidos, e da guía empregada na realización das transcricións.
+Audio files within the corpus are available in WAV format and aligned text files in .stm and .trf formats. The metadata corpus of each speaker (if the speaker is known) and the transcription guide used are added.
 
 
-| Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
+| Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.800 horas (~1M segmentos)  | [url]()            |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url]()            |
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,800 hours (~1M segments)   | [url]()            |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [url]()            |
 
 
-## Síntese de voz (TTS)
+## Speech Synthesis (TTS)
 
-Neste apartado describimos corpus de voz deseñados para o adestramento de sistemas de síntese de voz (TTS) en galego. Para este fin, o texto a ser gravado debe ser coidadosamente seleccionado para ser balanceado e representativo, e as gravacións deben ser de alta calidade e sen ruídos. A continuación detallamos os corpus en galego para TTS desenvolvidos dentro do Proxecto Nós.
+In this section, speech corpora designed to train speech synthesis systems (TTS) in Galician are described. For this purpose, the text to be recorded must be carefully selected, so it is balanced and representative, and recordings must be of high quality and without any noise. Galician corpora for TTS developed within the Nós project are listed below.
 
 ### Nos_Celtia-GL
 
-Corpus de voz monolingüe monolocutor para TTS cun total de 30 horas.
+Monolingual speech corpus with only one speaker containing 30 hours for TTS.
 
-Nos_Celtia-GL é un corpus fonética e morfosintacticamente balanceado de 20.000 frases (aproximadamente 200.000 palabras) integrado por dous subcorpus: un corpus previo creado polo Grupo de Tecnoloxías Multimedia (GTM), en colaboración co Centro Ramón Piñeiro para a Investigación en Humanidades (CRPIH) e un corpus elaborado dentro do Proxecto Nós a partir de textos de dominio variado.
+Nos_Celtia-GL is a phonetically and morphosintactically balanced corpus of 20,000 sentences (200,000 word approximately) consisting of two subcorpora: an existing corpus created by Multimedia Technology Group (GTM) in colaboration with CRPIH (Centro Ramón Piñeiro de Investigación en Humanidades, literally in English, “Ramón Piñeiro Center in Humanities Research”), and a corpus created from several domain texts within the Nós project.
 
-O corpus foi gravado por unha voz feminina profesional escollida entre catro locutoras a partir dun test perceptivo realizado por máis de 50 persoas con mostras de catro voces onde se valoraba a claridade, a entoación, a agradabilidade e o nivel de lingua.
+The corpus was recorded with a professional female voice selected among four speakers through a perceptive test in which 50 people have participated. This test contains four samples with four different voices in which clarity, intonation, likability and language quality were evaluated.
 
-Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 30 horas.
-
-
-| Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
-| --------------------  | -------------- | -----------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~30 horas (20.000 frases)   | [url]()                           |
+Audio files are available in the original recording format (48 kHz and 16 bits in WAV format) and they have a duration of 30 hours approximately.
 
 
-## Tradución automática
+| Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
+| --------------------  | -------------- | -------------------------------|---------------------------------- |
+| Nos_Celtia-GL         | gl             |  ~30 hours (20,000 sentences)  | [url]()                           |
 
-### Corpus bilingües paralelos que inclúen o galego
 
-Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
+## Machine Translation
 
-| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
+### Bilingual parallel texts including Galician
+
+In this section, parallel texts made of human translations including Galician language are described. There are two types of parallel texts in Galician: authentic and synthetic. The first ones are those made by human translators from or into Galician and another language, such as English or Spanish. Synthetic parallel texts are those artificially transformed from another language into Galician through different techniques (for example, machine translation and transliteration from Portuguese into Galician). The different parallel texts including Galician and published under a free license by the Nós project are listed below:
+
+| Corpus Name     | Language/s     | Authentic / Synthetic | Details         | Download (Zenodo)  |
 | --------------  | -------------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de oracións |                    |
-| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de oracións |                    |
-| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de oracións |                    |
-| Nos_EN-GL_sin   | en-gl_sin      | Sintético             | 29M de oracións |                    |
+| Nos_ES-GL_aut   | es-gl_aut      | Authentic             | 36M sentences   |     [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)               |
+| Nos_EN-GL_aut   | en-gl-aut      | Authentic             | 14M sentences   |     [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)               |
+| Nos_ES-GL_sin   | es-gl_sin      | Synthetic             | 35M sentences   |     [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)               |
+| Nos_EN-GL_sin   | en-gl_sin      | Synthetic             | 29M sentences   |     [url](https://zenodo.org/record/7675473#.Y_yBUtLML_o)               |
 
 
-+ Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
-+ Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
-+ Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
-+ Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
++ Nos_ES-GL-aut includes the following subcorpora: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
++ Nos_EN-GL_aut includes the following subcorpora: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
++ Nos_ES-GL_sin includes the following subcorpora: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
++ Nos_EN-GL_sin includes the following subcorpora: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
 
 
-### Corpus de avaliación
+### Evaluation parallel texts
 
-| Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
-| ------------------------- | -------------- | ------------- | -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
-| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
-| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  oracións |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  oracións |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
+| Corpus Name               | Language/s     | Details        | Download (Zenodo)  |
+| ------------------------- | -------------- | ---------------| -------------------|
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 sentences |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
+| Nos_MT_Gold-ES-GL_2       | es-gl          | 1998 sentences |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 sentences |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 sentences |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
+| Nos_MT_Test-suite-ES-GL   | es-gl          | 334 sentences  |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364 sentences  |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
 
-## Outros recursos
+## Other resources
 
-#### Corpus nun dominio específico:
-Obtivéronse dous datasets de máis de 3000 pares de datos tabulares aliñados con comentarios descritivos, un para o castelán e outro para o galego. O corpus en galego é o primeiro corpus para sistemas Data-To-Text en galego coñecido. Estes datasets foron obtidos a partir da base de datos de MeteoGalicia que conta con datos meteorolóxicos dos últimos 10 anos e textos descritivos bilingües escritos polos expertos meteorólogos pertencentes á institución. Cada un dos datasets foi revisado e anotado manualmente para incrementar a súa calidade textual e editado para limitar as descricións a aqueles fenómenos relacionados directamente cos datos numéricos. Aqui podes acceder ao [Dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
+#### Specific domain corpora:
+Two datasets including more than 3,000 tabular data pairs aligned with descriptive comments were obtained, one for Spanish and another for Galician. The Galician corpus is the first Galician corpus for Data-to-Text systems known. These datasets were obtained through the database MeteoGalicia, which includes meteorological data from the last 10 years together with descriptive bilingual texts written by expert meteorologists from the same institution. Each dataset was manually reviewed and annotated to improve its linguistic quality and was edited to delimit descriptions to only those phenomena directly related to numeric data. Hereafter you can find the [Dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
 
-#### Corpus de avaliación sintáctica:
-Desenvolvéronse os primeiros recursos públicos para a avaliación das capacidades sintácticas e semánticas de modelos de lingua para galego e portugués. As avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. Aqui podes acceder ao ([Dataset](https://github.com/marcospln/PROPOR2022-gl-pt) e aos [Modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints)).
+#### Syntactic evaluation corpora:
+The first public resources for the evaluation of syntactic and semantic abilities of language models for Galician and Portuguese were developed. Evaluations of neural models for Galician, both syntactic and semantic, show they perform similarly to equivalent models for other languages. Here you can access the [Dataset](https://github.com/marcospln/PROPOR2022-gl-pt) and the [Modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints).
