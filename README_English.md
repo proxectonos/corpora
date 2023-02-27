@@ -85,3 +85,6 @@ Two datasets including more than 3,000 tabular data pairs aligned with descripti
 
 #### Syntactic evaluation corpora:
 The first public resources for the evaluation of syntactic and semantic abilities of language models for Galician and Portuguese were developed. Evaluations of neural models for Galician, both syntactic and semantic, show they perform similarly to equivalent models for other languages. Here you can access the [Dataset](https://github.com/marcospln/PROPOR2022-gl-pt) and the [Modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints).
+
+#### Semantic composition corpus:
+Dataset used by teams from different regions in the world for the semantic modeling of multiword expressions in Galician. The introduction of this dataset in the SemEval 2022 (Task 2) event allowed teams from all over the world to work on the semantic modeling in Galician. Here you can access the [Dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
