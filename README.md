@@ -57,12 +57,12 @@ Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 
 
 Neste apartado describimos corpus de traducións humanas (paralelos) que inclúen o galego. Existen dous tipos de corpus paralelos en galego: auténticos e sintéticos. Os primeiros son aqueles que foron realizados por humanos entre o galego e outra lingua, p.e. castelán ou inglés. E os segundos son aqueles transformados artificialmente desde outra variante ou lingua para o galego mediante o uso de diferentes técnicas (p.e. tradución de portugués a galego con transliteración). A continuación detallamos os diferentes corpus paralelos en galego liberados con licenzas libres no Proxecto Nós:
 
-| Nome do Corpus  | Lingua/s       | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
-| --------------  | -------------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Auténtico             | 36M de oracións | [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
-| Nos_EN-GL_aut   | en-gl-aut      | Auténtico             | 14M de oracións | [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)                   |
-| Nos_ES-GL_sin   | es-gl_sin      | Sintético             | 35M de oracións | [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)                   |
-| Nos_EN-GL_sin   | en-gl_sin      | Sintético             | 29M de oracións | [url](https://zenodo.org/record/7675473#.Y_yBUtLML_o)                   |
+| Nome do Corpus  | Lingua/s  | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
+| --------------  | --------- | --------------------- | ----------------|------------------- |
+| Nos_ES-GL_aut   | es-gl     | Auténtico             | 36M de oracións | [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
+| Nos_EN-GL_aut   | en-gl     | Auténtico             | 14M de oracións | [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)                   |
+| Nos_ES-GL_sin   | es-gl     | Sintético             | 35M de oracións | [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)                   |
+| Nos_EN-GL_sin   | en-gl     | Sintético             | 29M de oracións | [url](https://zenodo.org/record/7675473#.Y_yBUtLML_o)                   |
 
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
