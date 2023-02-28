@@ -55,10 +55,10 @@ In this section, parallel texts made of human translations including Galician la
 
 | Corpus Name     | Language/s     | Authentic / Synthetic | Details         | Download (Zenodo)  |
 | --------------  | -------------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl_aut      | Authentic             | 36M sentences   |     [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)               |
-| Nos_EN-GL_aut   | en-gl-aut      | Authentic             | 14M sentences   |     [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)               |
-| Nos_ES-GL_sin   | es-gl_sin      | Synthetic             | 35M sentences   |     [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)               |
-| Nos_EN-GL_sin   | en-gl_sin      | Synthetic             | 29M sentences   |     [url](https://zenodo.org/record/7675473#.Y_yBUtLML_o)               |
+| Nos_ES-GL_aut   | es-gl          | Authentic             | 36M sentences   |     [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)               |
+| Nos_EN-GL_aut   | en-gl          | Authentic             | 14M sentences   |     [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)               |
+| Nos_ES-GL_sin   | es-gl          | Synthetic             | 35M sentences   |     [url](https://zenodo.org/record/7674099#.Y_j1odLMJH4)               |
+| Nos_EN-GL_sin   | en-gl          | Synthetic             | 29M sentences   |     [url](https://zenodo.org/record/7675473#.Y_yBUtLML_o)               |
 
 
 + Nos_ES-GL-aut includes the following subcorpora: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
