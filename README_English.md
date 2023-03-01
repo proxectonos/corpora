@@ -4,21 +4,25 @@ In this section you can find several text and speech corpora in Galician (both m
 
 ## Automatic Speech Recognition (ASR)
 
-In this section, aligned text and speech corpus are described, which can be used for training or evaluating Automatic Speech Recognition systems (ASR). For this purpose, audio resources must be segmented and aligned together with the corresponding text, a task that can be manually or automatically done (forced alignment). Galician corpora developed within the Nós project for ASR are described below. 
+This section describes aligned speech and text corpora that can be used to train or evaluate Automatic Speech Recognition (ASR) systems. To this end, the audio must be segmented and aligned (manually or automatically – the latter also known as forced alignment) with the corresponding text. Galician ASR corpora developed within the Nós Project are described below.
 
 ### Nos_ParlaSpeech-GL
 
-Speech corpus for ASR (speech and text aligned) of more than 1,500 hours, made with automatic alignment, and created from plenaries at the Galician Parliament between 2015 and 2022.
+ASR corpus of more than 1,500 hours of automatically aligned speech and text, created from audio and official transcripts of Galician parliamentary sessions celebrated between 2015 and 2022.
 
-The corpus is divided into two subcorpora, “clean” and “other”, containing XX and XX hours respectively. Segments included in the “clean” subcorpus were screened following different quality criteria, whereas the “other” subcorpus contains the rejected segments in the filtering process.
+The corpus is divided into two subcorpora, “clean” and “other”, consisting of 1,196.92 hours (667,308 segments) and 477.71 hours (130,332 segments), respectively. The segments included in the “clean” subcorpus were filtered according to several alignment quality criteria, whereas the “other” subcorpus comprises the segments that were discarded in the filtering process. 
 
-In addition, every segment is linked to the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint) project can be found by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). The corpus is available in .stm and .json formats, and audio files in WAV format (16 kHz, 16 bits).
+In addition, each segment is marked with the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint) project can be accessed by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). 
+
+The corpus is available in .stm and .json formats, and audio files in WAV format (16 kHz, 16-bit).
 
 ### Nos_TranscriSpeech-GL
 
-Speech corpus for ASR (speech and text aligned) of different domains, containing 53 hours, with transcriptions and manual alignment. The corpus is divided into four thematic subcorpora: conferences, interviews, debates and speeches. 
+Manually transcribed and speech-to-text aligned Galician ASR corpus containing 53 hours of multi-domain speech. 
 
-Audio files within the corpus are available in WAV format and aligned text files in .stm and .trf formats. The metadata corpus of each speaker (if the speaker is known) and the transcription guide used are added.
+The corpus is divided into four thematic subcorpora: conferences, interviews, debates and speeches. 
+
+Audio files within the corpus are available in WAV format and aligned text files in .stm and .trf formats. Moreover, the corpus is accompanied by the corresponding speaker metadata and the guide that was used for the manual transcription.
 
 
 | Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
@@ -29,17 +33,17 @@ Audio files within the corpus are available in WAV format and aligned text files
 
 ## Speech Synthesis (TTS)
 
-In this section, speech corpora designed to train speech synthesis systems (TTS) in Galician are described. For this purpose, the text to be recorded must be carefully selected, so it is balanced and representative, and recordings must be of high quality and without any noise. Galician corpora for TTS developed within the Nós project are listed below.
+This section describes speech corpora designed for training TTS systems in Galician. To this end, the text to be recorded must be carefully selected in order to be balanced and representative, and the recordings must be high-quality and noise-free. Galician TTS corpora developed within the Nós Project are described below.
 
 ### Nos_Celtia-GL
 
-Monolingual speech corpus with only one speaker containing 30 hours for TTS.
+Galician TTS single speaker corpus of approximately 30 hours of speech.
 
-Nos_Celtia-GL is a phonetically and morphosintactically balanced corpus of 20,000 sentences (200,000 word approximately) consisting of two subcorpora: an existing corpus created by Multimedia Technology Group (GTM) in colaboration with CRPIH (Centro Ramón Piñeiro de Investigación en Humanidades, literally in English, “Ramón Piñeiro Center in Humanities Research”), and a corpus created from several domain texts within the Nós project.
+Nos_Celtia-GL is a phonetically and morphosintactically balanced corpus of 20,000 sentences (approximately 200,000 words) consisting of two subcorpora: a previously compiled corpus created by Multimedia Technology Group (GTM) in colaboration with CRPIH (Centro Ramón Piñeiro de Investigación en Humanidades, literally in English, “Ramón Piñeiro Center in Humanities Research”), and a corpus compiled by the Nós Project from multi-domain texts.
 
-The corpus was recorded with a professional female voice selected among four speakers through a perceptive test in which 50 people have participated. This test contains four samples with four different voices in which clarity, intonation, likability and language quality were evaluated.
+The corpus was recorded in a controlled environment (recording studio) by a professional female voice talent selected among four speakers through a perceptual test in which more than 50 participants assessed the speakers’ clarity, prosody, likeability, and language proficiency.
 
-Audio files are available in the original recording format (48 kHz and 16 bits in WAV format) and they have a duration of 30 hours approximately.
+Audio files are available in the original recording format (48 kHz, 16-bit WAV format) and they have a duration of 30 hours approximately.
 
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
