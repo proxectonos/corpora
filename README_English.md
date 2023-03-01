@@ -67,7 +67,7 @@ In this section, parallel texts made of human translations including Galician la
 
 + Nos_ES-GL-aut includes the following subcorpora: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
 + Nos_EN-GL_aut includes the following subcorpora: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
-+ Nos_ES-GL_sin includes the following subcorpora: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
++ Nos_ES-GL_sin includes the following subcorpora: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgaback.
 + Nos_EN-GL_sin includes the following subcorpora: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
 
 
@@ -85,10 +85,10 @@ In this section, parallel texts made of human translations including Galician la
 ## Other resources
 
 #### Specific domain corpora:
-Two datasets including more than 3,000 tabular data pairs aligned with descriptive comments were obtained, one for Spanish and another for Galician. The Galician corpus is the first Galician corpus for Data-to-Text systems known. These datasets were obtained through the database MeteoGalicia, which includes meteorological data from the last 10 years together with descriptive bilingual texts written by expert meteorologists from the same institution. Each dataset was manually reviewed and annotated to improve its linguistic quality and was edited to delimit descriptions to only those phenomena directly related to numeric data. Hereafter you can find the [Dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
+Two datasets including more than 3,000 tabular data pairs aligned with descriptive comments were obtained, one for Spanish and another for Galician. The Galician corpus is the first Galician corpus for Data-to-Text systems known. These datasets were obtained through the database MeteoGalicia, which includes meteorological data from the last 10 years together with descriptive bilingual texts written by expert meteorologists from the same institution. Each dataset was manually reviewed and annotated to improve its linguistic quality and was edited to delimit descriptions to only those phenomena directly related to numeric data. Hereafter you can find the [dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
 
 #### Syntactic evaluation corpora:
-The first public resources for the evaluation of syntactic and semantic abilities of language models for Galician and Portuguese were developed. Evaluations of neural models for Galician, both syntactic and semantic, show they perform similarly to equivalent models for other languages. Here you can access the [Dataset](https://github.com/marcospln/PROPOR2022-gl-pt) and the [Evaluated systems](https://github.com/marcospln/galician_bert_checkpoints).
+Public resources for the evaluation of syntactic and semantic abilities of language models for Galician and Portuguese were developed. Evaluations of neural models for Galician, both syntactic and semantic, show they perform similarly to equivalent models for other languages. Here you can access the datasets ([syntactic](https://github.com/marcospln/PROPOR2022-gl-pt) and [semantic](https://github.com/marcospln/homonymy_acl21)), and the [evaluated systems](https://github.com/marcospln/galician_bert_checkpoints).
 
 #### Semantic composition corpus:
-Dataset used by teams from different regions in the world for the semantic modeling of multiword expressions in Galician. The introduction of this dataset in the SemEval 2022 (Task 2) event allowed teams from all over the world to work on the semantic modeling in Galician. Here you can access the [Dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
+Dataset for semantic evaluation of multiword expressions modeling in Galician. The introduction of this dataset in the SemEval 2022 (Task 2) event allowed international teams to work on the semantic modeling in Galician. Here you can access the [dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
