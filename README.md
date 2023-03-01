@@ -42,7 +42,7 @@ Corpus de voz monolingüe monolocutor para TTS cun total de 30 horas.
 
 Nos_Celtia-GL é un corpus fonética e morfosintacticamente balanceado de 20.000 frases (aproximadamente 200.000 palabras) integrado por dous subcorpus: un corpus previo creado polo Grupo de Tecnoloxías Multimedia (GTM), en colaboración co Centro Ramón Piñeiro para a Investigación en Humanidades (CRPIH) e un corpus elaborado dentro do Proxecto Nós a partir de textos de dominio variado.
 
-O corpus foi gravado nun ambiente controlado (estudo de gravación) por unha voz feminina profesional escollida entre catro locutoras a partir dun test perceptivo realizado por máis de 50 persoas con mostras de catro voces onde se valoraba a claridade, a entoación, a agradabilidade e o nivel de lingua.
+O corpus foi gravado nun ambiente controlado (estudio de gravación) por unha voz feminina profesional escollida entre catro locutoras a partir dun test perceptivo realizado por máis de 50 persoas con mostras de catro voces onde se valoraba a claridade, a entoación, a agradabilidade e o nivel de lingua.
 
 Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 30 horas.
 
