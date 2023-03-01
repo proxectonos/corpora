@@ -68,7 +68,7 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
 + Nos_EN-GL_aut inclúe os seguintes subcorpus: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
-+ Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgabak.
++ Nos_ES-GL_sin inclúe os seguintes subcorpus: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgaback.
 + Nos_EN-GL_sin inclúe os seguintes subcorpus: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
 
 
@@ -86,11 +86,11 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 ## Outros recursos
 
 #### Corpus nun dominio específico:
-Obtivéronse dous datasets de máis de 3000 pares de datos tabulares aliñados con comentarios descritivos, un para o castelán e outro para o galego. O corpus en galego é o primeiro corpus para sistemas Data-To-Text en galego coñecido. Estes datasets foron obtidos a partir da base de datos de MeteoGalicia que conta con datos meteorolóxicos dos últimos 10 anos e textos descritivos bilingües escritos polos expertos meteorólogos pertencentes á institución. Cada un dos datasets foi revisado e anotado manualmente para incrementar a súa calidade textual e editado para limitar as descricións a aqueles fenómenos relacionados directamente cos datos numéricos. Aqui podes acceder ao [Dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
+Obtivéronse dous datasets de máis de 3000 pares de datos tabulares aliñados con comentarios descritivos, un para o castelán e outro para o galego. O corpus en galego é o primeiro corpus para sistemas Data-To-Text en galego coñecido. Estes datasets foron obtidos a partir da base de datos de MeteoGalicia que conta con datos meteorolóxicos dos últimos 10 anos e textos descritivos bilingües escritos polos expertos meteorólogos pertencentes á institución. Cada un dos datasets foi revisado e anotado manualmente para incrementar a súa calidade textual e editado para limitar as descricións a aqueles fenómenos relacionados directamente cos datos numéricos. Aqui podes acceder ao [dataset](https://zenodo.org/record/7661650#.Y_dJH9LMJH5).
 
 #### Corpus de avaliación sintáctica:
-Desenvolvéronse os primeiros recursos públicos para a avaliación das capacidades sintácticas e semánticas de modelos de lingua para galego e portugués. As avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. Aqui podes acceder ao ([Dataset](https://github.com/marcospln/PROPOR2022-gl-pt) e aos [Modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints)).
+Desenvolvéronse recursos públicos para a avaliación das capacidades sintácticas e semánticas de modelos de lingua para galego e portugués. As avaliacións tanto sintácticas como semánticas dos modelos neuronais do galego mostran que teñen desempeños similares a modelos equivalentes para outras linguas. Aqui podes acceder aos datasets ([sintáctico](https://github.com/marcospln/PROPOR2022-gl-pt) e [semántico](https://github.com/marcospln/homonymy_acl21)) e aos [modelos avaliados](https://github.com/marcospln/galician_bert_checkpoints).
 
 #### Corpus de composición semántica:
-Dataset empregado por equipos de diversas partes do mundo para o modelado semántico de expresións multipalabra en galego. A introdución deste dataset galego no evento SemEval 2022 (Task 2) permitiu que equipos de todo o mundo traballasen no modelado semántico en galego. Aqui podes acceder ao [Dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
+Dataset de avaliación semántica de expresións multipalabra en galego. A introdución deste dataset galego no evento SemEval 2022 (Task 2) permitiu que equipos internacionais traballasen no modelado semántico en galego. Aqui podes acceder ao [dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
 
