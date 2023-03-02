@@ -67,8 +67,10 @@ In this section, parallel texts made of human translations including Galician la
 
 + Nos_ES-GL-aut includes the following subcorpora: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
 + Nos_EN-GL_aut includes the following subcorpora: ccmatrix, wikimatrix, opus-en-pt_gl, cluvi.
-+ Nos_ES-GL_sin includes the following subcorpora: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgaback.
-+ Nos_EN-GL_sin includes the following subcorpora: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback.
++ Nos_ES-GL_sin includes the following subcorpora: europarl-es-pt_gl, opensubtitles-es-pt_gl, dgt-es-pt_gl, corgaback*.
++ Nos_EN-GL_sin includes the following subcorpora: opensub-en-pt_gl, europarl-en-pt_gl, ted2020-en-pt_gl, corgaback*.
+
+* This corpus is not released due to copyright issues
 
 
 ### Evaluation parallel texts
