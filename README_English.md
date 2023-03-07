@@ -8,7 +8,7 @@ This section describes aligned speech and text corpora that can be used to train
 
 ### Nos_ParlaSpeech-GL
 
-ASR corpus of more than 1,500 hours of automatically aligned speech and text, created from audio and official transcripts of Galician parliamentary sessions celebrated between 2015 and 2022.
+ASR corpus of more than 1,600 hours of automatically aligned speech and text, created from audio and official transcripts of Galician parliamentary sessions celebrated between 2015 and 2022.
 
 The corpus is divided into two subcorpora, “clean” and “other”, consisting of 1,196.92 hours (667,308 segments) and 477.71 hours (130,332 segments), respectively. The segments included in the “clean” subcorpus were filtered according to several alignment quality criteria, whereas the “other” subcorpus comprises the segments that were discarded in the filtering process. 
 
@@ -27,7 +27,7 @@ Audio files within the corpus are available in WAV format and aligned text files
 
 | Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,800 hours (~1M segments)   | [url]()            |
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [url]()            |
 | Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [url]()            |
 
 
@@ -37,7 +37,7 @@ This section describes speech corpora designed for training TTS systems in Galic
 
 ### Nos_Celtia-GL
 
-Galician TTS single speaker corpus of approximately 30 hours of speech.
+Galician TTS single speaker corpus of approximately 25 hours of speech.
 
 Nos_Celtia-GL is a phonetically and morphosintactically balanced corpus of 20,000 sentences (approximately 200,000 words) consisting of two subcorpora: a previously compiled corpus created by Multimedia Technology Group (GTM) in colaboration with CRPIH (Centro Ramón Piñeiro de Investigación en Humanidades, literally in English, “Ramón Piñeiro Center in Humanities Research”), and a corpus compiled by the Nós Project from multi-domain texts.
 
@@ -48,7 +48,7 @@ Audio files are available in the original recording format (48 kHz, 16-bit WAV f
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
 | --------------------  | -------------- | -------------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~30 hours (20,000 sentences)  | [url]()                           |
+| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [url]()                           |
 
 
 ## Machine Translation
