@@ -9,7 +9,7 @@ A continuación detallamos os corpus en galego para ASR desenvolvidos dentro do 
 
 ### Nos_ParlaSpeech-GL
 
-Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun total de máis de 1500 horas, creado a partir das sesións plenarias celebradas no Parlamento de Galicia entre os anos 2015 e 2022.
+Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun total de máis de 1600 horas, creado a partir das sesións plenarias celebradas no Parlamento de Galicia entre os anos 2015 e 2022.
 
 O corpus divídese en dous subcorpus, “clean” e “other”, que constan de 1.196,92 horas (667.308 segmentos) e 477,71 horas (130.332 segmentos) respectivamente. Os segmentos incluídos en “clean” foron filtrados de acordo con varios criterios de calidade, mentres que o subcorpus “other” recolle os segmentos descartados neste filtrado.
 
@@ -28,7 +28,7 @@ Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44
 
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.800 horas (~1M segmentos)  | [url]()            |
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [url]()            |
 | Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url]()            |
 
 
@@ -38,18 +38,18 @@ Neste apartado describimos corpus de voz deseñados para o adestramento de siste
 
 ### Nos_Celtia-GL
 
-Corpus de voz monolingüe monolocutor para TTS cun total de 30 horas.
+Corpus de voz monolingüe monolocutor para TTS cun total de 25 horas.
 
 Nos_Celtia-GL é un corpus fonética e morfosintacticamente balanceado de 20.000 frases (aproximadamente 200.000 palabras) integrado por dous subcorpus: un corpus previo creado polo Grupo de Tecnoloxías Multimedia (GTM), en colaboración co Centro Ramón Piñeiro para a Investigación en Humanidades (CRPIH) e un corpus elaborado dentro do Proxecto Nós a partir de textos de dominio variado.
 
 O corpus foi gravado nun ambiente controlado (estudio de gravación) por unha voz feminina profesional escollida entre catro locutoras a partir dun test perceptivo realizado por máis de 50 persoas con mostras de catro voces onde se valoraba a claridade, a entoación, a agradabilidade e o nivel de lingua.
 
-Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 30 horas.
+Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 25 horas.
 
 
 | Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
 | --------------------  | -------------- | -----------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~30 horas (20.000 frases)   | [url]()                           |
+| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [url]()                           |
 
 
 ## Tradución automática
