@@ -43,7 +43,7 @@ Nos_Celtia-GL is a phonetically and morphosintactically balanced corpus of 20,00
 
 The corpus was recorded in a controlled environment (recording studio) by a professional female voice talent selected among four speakers through a perceptual test in which more than 50 participants assessed the speakers’ clarity, prosody, likeability, and language proficiency.
 
-Audio files are available in the original recording format (48 kHz, 16-bit WAV format) and they have a duration of 30 hours approximately.
+Audio files are available in the original recording format (48 kHz, 16-bit WAV format) and they have a duration of 25 hours approximately.
 
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
