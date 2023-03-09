@@ -15,7 +15,7 @@ O corpus divídese en dous subcorpus, “clean” e “other”, que constan de 
 
 Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
 
-O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio no formato WAV a 16 kHz e 16 bits.
+O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio en formato WAV a 16 kHz e 16 bits.
 
 ### Nos_TranscriSpeech-GL
 
