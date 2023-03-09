@@ -4,7 +4,7 @@ Nesta sección pode acceder a distintos corpus de texto ou voz en galego (monoli
 
 ## Recoñecemento da fala (ASR)
 
-Nesta sección describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
+Neste apartado describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
 A continuación detallamos os corpus en galego para ASR desenvolvidos dentro do Proxecto Nós. 
 
 ### Nos_ParlaSpeech-GL
