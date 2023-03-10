@@ -48,7 +48,7 @@ Audio files are available in the original recording format (48 kHz, 16-bit WAV f
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
 | --------------------  | -------------- | -------------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [url]()                           |
+| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [url](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
 
 
 ## Machine Translation
