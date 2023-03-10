@@ -49,7 +49,7 @@ Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 
 
 | Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
 | --------------------  | -------------- | -----------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [url]()                           |
+| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [url](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
 
 
 ## Tradución automática
