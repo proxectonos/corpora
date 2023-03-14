@@ -28,7 +28,7 @@ Audio files within the corpus are available in WAV format and aligned text files
 | Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [url]()            |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [url]()            |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [url](https://zenodo.org/record/7717140)            |
 
 
 ## Speech Synthesis (TTS)
