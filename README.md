@@ -29,7 +29,7 @@ Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [url]()            |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url]()            |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url](https://zenodo.org/record/7717140)            |
 
 
 ## Síntese de voz (TTS)
