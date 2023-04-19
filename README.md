@@ -29,7 +29,7 @@ Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | (En proceso)  |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [url](https://zenodo.org/record/7717140)            |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140)            |
 
 
 ## Síntese de voz (TTS)
@@ -49,7 +49,7 @@ Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 
 
 | Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
 | --------------------  | -------------- | -----------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [url](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
+| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
 
 
 ## Tradución automática
@@ -60,10 +60,10 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus  | Lingua/s  | Auténtico / Sintético | Detalles        | Descargar (Zenodo) |
 | --------------  | --------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl     | Auténtico             | 36M de oracións | [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
-| Nos_EN-GL_aut   | en-gl     | Auténtico             | 14M de oracións | [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)                   |
-| Nos_ES-GL_sin   | es-gl     | Sintético             | 35M de oracións | [url](https://zenodo.org/record/7691829#.ZD-ml9IzZH4)                   |
-| Nos_EN-GL_sin   | en-gl     | Sintético             | 29M de oracións | [url](https://zenodo.org/record/7685180#.ZD-mp9IzZH4)                   |
+| Nos_ES-GL_aut   | es-gl     | Auténtico             | 36M de oracións | [URL](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
+| Nos_EN-GL_aut   | en-gl     | Auténtico             | 14M de oracións | [URL](https://zenodo.org/record/7675110#.Y_yBh9LML_o)                   |
+| Nos_ES-GL_sin   | es-gl     | Sintético             | 35M de oracións | [URL](https://zenodo.org/record/7691829#.ZD-ml9IzZH4)                   |
+| Nos_EN-GL_sin   | en-gl     | Sintético             | 29M de oracións | [URL](https://zenodo.org/record/7685180#.ZD-mp9IzZH4)                   |
 
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
@@ -76,12 +76,12 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 
 | Nome do Corpus      | Lingua/s             | Detalles      | Descargar (Zenodo) |
 | ------------------------- | -------------- | ------------- | -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
-| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 oracións |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 oracións |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
-| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  oracións |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  oracións |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 oracións |         [URL](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
+| Nos_MT_Gold-ES-GL_2       | en-gl          | 1998 oracións |         [URL](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 oracións |         [URL](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 oracións |         [URL](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
+| Nos_MT_Test-suite-ES-GL   | en-gl          | 334  oracións |         [URL](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364  oracións |         [URL](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
 
 ## Outros recursos
 
