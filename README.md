@@ -62,8 +62,8 @@ Neste apartado describimos corpus de traducións humanas (paralelos) que inclúe
 | --------------  | --------- | --------------------- | ----------------|------------------- |
 | Nos_ES-GL_aut   | es-gl     | Auténtico             | 36M de oracións | [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)                   |
 | Nos_EN-GL_aut   | en-gl     | Auténtico             | 14M de oracións | [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)                   |
-| Nos_ES-GL_sin   | es-gl     | Sintético             | 35M de oracións | [url](-)                   |
-| Nos_EN-GL_sin   | en-gl     | Sintético             | 29M de oracións | [url](-)                   |
+| Nos_ES-GL_sin   | es-gl     | Sintético             | 35M de oracións | [url](https://zenodo.org/record/7691829#.ZD-ml9IzZH4)                   |
+| Nos_EN-GL_sin   | en-gl     | Sintético             | 29M de oracións | [url](https://zenodo.org/record/7685180#.ZD-mp9IzZH4)                   |
 
 
 + Nos_ES-GL-aut inclúe os seguintes subcorpus: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
