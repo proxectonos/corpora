@@ -14,7 +14,7 @@ Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun
 
 O corpus divídese en dous subcorpus, “clean” e “other”, que constan de 1.196,92 horas (667.308 segmentos) e 477,71 horas (130.332 segmentos) respectivamente. Os segmentos incluídos en “clean” foron filtrados de acordo con varios criterios de calidade, mentres que o subcorpus “other” recolle os segmentos descartados neste filtrado.
 
-Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
+Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-ES-GA](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
 
 O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio en formato WAV a 16 kHz e 16 bits.
 
