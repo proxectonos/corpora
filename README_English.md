@@ -12,7 +12,7 @@ ASR corpus of more than 1,600 hours of automatically aligned speech and text, cr
 
 The corpus is divided into two subcorpora, “clean” and “other”, consisting of 1,196.92 hours (667,308 segments) and 477.71 hours (130,332 segments), respectively. The segments included in the “clean” subcorpus were filtered according to several alignment quality criteria, whereas the “other” subcorpus comprises the segments that were discarded in the filtering process. 
 
-In addition, each segment is marked with the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-GL](https://github.com/clarin-eric/ParlaMint) project can be accessed by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). 
+In addition, each segment is marked with the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-ES-GA](https://github.com/clarin-eric/ParlaMint) project can be accessed by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). 
 
 The corpus is available in .stm and .json formats, and audio files in WAV format (16 kHz, 16-bit).
 
