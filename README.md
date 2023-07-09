@@ -95,5 +95,5 @@ Desenvolvéronse recursos públicos para a avaliación das capacidades sintácti
 #### Corpus de composición semántica:
 Dataset de avaliación semántica de expresións multipalabra en galego. A introdución deste dataset galego no evento SemEval 2022 (Task 2) permitiu que equipos internacionais traballasen no modelado semántico en galego. Aqui podes acceder ao [dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
 
-#### Corpus de frases con licenza CC0 (nos_gl_CC0)
+#### Corpus de frases con licenza CC0 (nos_gl_CC0):
 Frases con licenza libre [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode) en galego, recollidas co fin de alimentar o corpus textual de [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/). Podes acceder ao corpus [aquí](https://github.com/proxectonos/nos_gl_CC0/tree/main).
