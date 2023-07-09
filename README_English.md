@@ -92,3 +92,6 @@ Public resources for the evaluation of syntactic and semantic abilities of langu
 
 #### Semantic composition corpus:
 Dataset for semantic evaluation of multiword expressions modeling in Galician. The introduction of this dataset in the SemEval 2022 (Task 2) event allowed international teams to work on the semantic modeling in Galician. Here you can access the [dataset](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).
+
+#### CC0 Sentence Corpus (nos_gl_CC0):
+Copyright-free [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode) sentences in Galician, collected by [Proxecto Nós](nos.gal) in order to contribute to the text corpus of [Mozilla Common Voice](https://commonvoice.mozilla.org/gl/). You can access the data [here](https://github.com/proxectonos/nos_gl_CC0/tree/main).
