@@ -14,9 +14,9 @@ Corpus de voz para ASR (texto e voz aliñados), con aliñamento automático, cun
 
 O corpus divídese en dous subcorpus, “clean” e “other”, que constan de 1.196,92 horas (667.308 segmentos) e 477,71 horas (130.332 segmentos) respectivamente. Os segmentos incluídos en “clean” foron filtrados de acordo con varios criterios de calidade, mentres que o subcorpus “other” recolle os segmentos descartados neste filtrado.
 
-Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint-ES-GA](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA).
+Ademais, cada segmento asóciase co identificador do falante correspondente. Os metadatos dos distintos locutores, recollidos dentro do proxecto [ParlaMint](https://github.com/clarin-eric/ParlaMint), pódense consultar nesta [ligazón](https://github.com/clarin-eric/ParlaMint/tree/main/Samples/ParlaMint-ES-GA).
 
-O corpus está dispoñible nos formatos .stm e .json, e os ficheiros de audio en formato WAV a 16 kHz e 16 bits.
+O corpus está dispoñible nos formatos STM e JSON, e os ficheiros de audio en formato WAV a 16 kHz e 16 bits.
 
 ### Nos_TranscriSpeech-GL
 
@@ -24,13 +24,13 @@ Corpus de voz para ASR (texto e voz aliñados) de dominio variado, con transcric
 
 O corpus divídese en catro subcorpus temáticos: Conferencias, Entrevistas, Debates e Discursos.
 
-Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44.1 kHz e 16 bits, e os ficheiros de texto aliñado en formato .stm e .trf. Acompáñase o corpus dos metadatos para cada locutor e da guía empregada na realización das transcricións.
+Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44.1 kHz e 16 bits, e os ficheiros de texto aliñado en formato STM e TRF. Acompáñase o corpus dos metadatos para cada locutor e da guía empregada na realización das transcricións.
 
 
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | (En proceso)  |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140)            |
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |
 
 
 ## Síntese de voz (TTS)
