@@ -12,9 +12,9 @@ ASR corpus of more than 1,600 hours of automatically aligned speech and text, cr
 
 The corpus is divided into two subcorpora, “clean” and “other”, consisting of 1,196.92 hours (667,308 segments) and 477.71 hours (130,332 segments), respectively. The segments included in the “clean” subcorpus were filtered according to several alignment quality criteria, whereas the “other” subcorpus comprises the segments that were discarded in the filtering process. 
 
-In addition, each segment is marked with the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint-ES-GA](https://github.com/clarin-eric/ParlaMint) project can be accessed by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Data/ParlaMint-ES-GA). 
+In addition, each segment is marked with the corresponding speaker ID. Metadata of the different speakers compiled within the [ParlaMint](https://github.com/clarin-eric/ParlaMint) project can be accessed by clicking this [link](https://github.com/clarin-eric/ParlaMint/tree/main/Samples/ParlaMint-ES-GA). 
 
-The corpus is available in .stm and .json formats, and audio files in WAV format (16 kHz, 16-bit).
+The corpus is available in STM and JSON formats, and audio files in WAV format (16 kHz, 16-bit).
 
 ### Nos_TranscriSpeech-GL
 
@@ -22,13 +22,13 @@ Manually transcribed and speech-to-text aligned Galician ASR corpus containing 5
 
 The corpus is divided into four thematic subcorpora: conferences, interviews, debates and speeches. 
 
-Audio files within the corpus are available in WAV format and aligned text files in .stm and .trf formats. Moreover, the corpus is accompanied by the corresponding speaker metadata and the guide that was used for the manual transcription.
+Audio files within the corpus are available in WAV format and aligned text files in STM and TRF formats. Moreover, the corpus is accompanied by the corresponding speaker metadata and the guide that was used for the manual transcription.
 
 
 | Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [url]()            |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [url](https://zenodo.org/record/7717140)            |
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [URL](https://zenodo.org/record/7913218) |
+| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [URL](https://zenodo.org/record/7717140) |
 
 
 ## Speech Synthesis (TTS)
@@ -48,7 +48,7 @@ Audio files are available in the original recording format (48 kHz, 16-bit WAV f
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
 | --------------------  | -------------- | -------------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [url](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
+| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
 
 
 ## Machine Translation
@@ -59,10 +59,10 @@ In this section, parallel texts made of human translations including Galician la
 
 | Corpus Name     | Language/s     | Authentic / Synthetic | Details         | Download (Zenodo)  |
 | --------------  | -------------- | --------------------- | ----------------|------------------- |
-| Nos_ES-GL_aut   | es-gl          | Authentic             | 36M sentences   |     [url](https://zenodo.org/record/7671278#.Y_j109LMJH4)               |
-| Nos_EN-GL_aut   | en-gl          | Authentic             | 14M sentences   |     [url](https://zenodo.org/record/7675110#.Y_yBh9LML_o)               |
-| Nos_ES-GL_sin   | es-gl          | Synthetic             | 35M sentences   |     [url](-)               |
-| Nos_EN-GL_sin   | en-gl          | Synthetic             | 29M sentences   |     [url](-)               |
+| Nos_ES-GL_aut   | es-gl          | Authentic             | 36M sentences   |     [URL](https://zenodo.org/record/7671278#.Y_j109LMJH4)               |
+| Nos_EN-GL_aut   | en-gl          | Authentic             | 14M sentences   |     [URL](https://zenodo.org/record/7675110#.Y_yBh9LML_o)               |
+| Nos_ES-GL_sin   | es-gl          | Synthetic             | 35M sentences   |     [URL](-)               |
+| Nos_EN-GL_sin   | en-gl          | Synthetic             | 29M sentences   |     [URL](-)               |
 
 
 + Nos_ES-GL-aut includes the following subcorpora: ccmatrix, cluvi, gnome, kde, paracrawl, ubuntu, wikimedia, wikimatrix, opensubtitles-es-gl, ted2020, opensubtitles2018. 
@@ -75,12 +75,12 @@ In this section, parallel texts made of human translations including Galician la
 
 | Corpus Name               | Language/s     | Details        | Download (Zenodo)  |
 | ------------------------- | -------------- | ---------------| -------------------|
-| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 sentences |         [url](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
-| Nos_MT_Gold-ES-GL_2       | es-gl          | 1998 sentences |         [url](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 sentences |         [url](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
-| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 sentences |         [url](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
-| Nos_MT_Test-suite-ES-GL   | es-gl          | 334 sentences  |         [url](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
-| Nos_MT_Test-suite-EN-GL   | en-gl          | 364 sentences  |         [url](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
+| Nos_MT_Gold-ES-GL_1       | es-gl          | 1998 sentences |         [URL](https://zenodo.org/record/7657887#.Y_OvX9LMJ3k)        |
+| Nos_MT_Gold-ES-GL_2       | es-gl          | 1998 sentences |         [URL](https://zenodo.org/record/7657993#.Y_Ozr9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_1       | en-gl          | 1777 sentences |         [URL](https://zenodo.org/record/7658009#.Y_O0x9LMJ3k)        |
+| Nos_MT_Gold-EN-GL_2       | en-gl          | 1777 sentences |         [URL](https://zenodo.org/record/7658033#.Y_O2o9LMJ3k)        |
+| Nos_MT_Test-suite-ES-GL   | es-gl          | 334 sentences  |         [URL](https://zenodo.org/record/7658052#.Y_O4fNLMJ3k)        |
+| Nos_MT_Test-suite-EN-GL   | en-gl          | 364 sentences  |         [URL](https://zenodo.org/record/7658249#.Y_O6bdLMJ3k)        |
 
 ## Other resources
 
