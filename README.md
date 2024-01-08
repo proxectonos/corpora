@@ -3,6 +3,9 @@ English text [here](https://github.com/proxectonos/corpora/blob/main/README_Engl
 # Corpus
 Nesta sección podes acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do noso site en [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20). Zenodo é un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
 
+## Corpus de texto (Macrocorpus)
+CorpusNós
+
 ## Recoñecemento da fala (ASR)
 
 Neste apartado describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
