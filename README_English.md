@@ -2,6 +2,42 @@
 
 In this section you can find several text and speech corpora in Galician (both monolingual and multilingual) that can be adapted for different tasks. All these resources can be downloaded under an open-source license from this [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) site. Zenodo is a general-purpose open repository managed by CERN and developed in the area of the European program OpenAIRE: an open-source network for repositories, files and journals that support open-source policies in Europe. 
 
+## Text corpus
+
+### Nos_CorpusNOS-GL
+
+CorpusNÓS is a massive Galician corpus made up of 2.1B words primarily devised for training large language models. The corpus sources are varied and represent a relatively wide range of genres.
+
+The corpus is structured as follows:
+
+| Subcorpus                             | Genre               | Nº tokens      | Nº documents |
+|---------------------------------------|---------------------|----------------|--------------|
+| Data obtained via transfer agreement  | Books               | 7,255,784      | 104          |
+|                                       | Research articles   | 2,665,351      | 664          |
+|                                       | Press               | 124,253,084    | 224,419      |
+|                                       | Governmental        | 245,897,880    | 654,505      |
+|                                       | Web contents        | 15,946,686     | 44,165       |
+|                                       | Encyclopedic        | 4,799,214      | 47,396       |
+|---------------------------------------|---------------------|----------------|--------------|
+|                                       | Subtotal            | 400,817,999    | 971,253      |
+|---------------------------------------|---------------------|----------------|--------------|
+| Public data                           | Press and blogs     | 153,497,883    | 665,265      |
+|                                       | Encyclopedic        | 57,164,848     | 184,628      |
+|                                       | Web crawls          | 1,384,015,664  | 3,366,449    |
+|                                       | Translation corpora | 133,726,004    | 4,745,799    |
+|---------------------------------------|---------------------|----------------|--------------|
+|                                       | Subtotal            | 1,728,404,399  | 8,777,514    |
+|---------------------------------------|---------------------|----------------|--------------|
+|                                       | Total               | 2,129,222,398  | 9,748,767    |
+|---------------------------------------|---------------------|----------------|--------------|
+| Download (Zenodo)                     | https://zenodo.org/records/10687642                 |                                    
+|---------------------------------------|-----------------------------------------------------|
+
+
+Following this structure, the corpus contains two folders for each subcorpus and within each subcorpus, folders with the different genres can be found. Files are in plain text format (*.txt) and individual documents inside each file are separated by two line breaks.
+
+Note: Some of the files referenced may be missing in this version of the corpus due to pending transfer agreements and they will be included in a future version of the corpus as soon as they are available for publishing.
+
 ## Automatic Speech Recognition (ASR)
 
 This section describes aligned speech and text corpora that can be used to train or evaluate Automatic Speech Recognition (ASR) systems. To this end, the audio must be segmented and aligned (manually or automatically – the latter also known as forced alignment) with the corresponding text. Galician ASR corpora developed within the Nós Project are described below.
