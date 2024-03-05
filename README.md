@@ -26,7 +26,7 @@ O corpus está estruturado da seguinte maneira:
 | Datos públicos                        | Prensa e blogs      | 153,497,883      | 665,265          |
 |                                       | Enciclopédico       | 57,164,848       | 184,628          |
 |                                       | Rastrexos web      | 1,384,015,664    | 3,366,449        |
-|                                       | Corpora de tradución | 133,726,004    | 4,745,799        |
+|                                       | Corpus de tradución | 133,726,004    | 4,745,799        |
 |                                       | Subtotal           | 1,728,404,399    | 8,777,514        |
 |                                       | Total              | 2,129,222,398    | 9,748,767        |
 | Descarga (Zenodo)                     | https://zenodo.org/records/10687642             |      
