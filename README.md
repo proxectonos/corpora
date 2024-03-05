@@ -4,7 +4,37 @@ English text [here](https://github.com/proxectonos/corpora/blob/main/README_Engl
 Nesta sección podes acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do noso site en [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20). Zenodo é un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
 
 ## Corpus de texto (Macrocorpus)
-CorpusNós
+
+### Nos_CorpusNOS-GL
+
+CorpusNÓS é un corpus masivo para a lingua galega composto por 2.1 mil millóns palabras principalmente deseñado para adestrar modelos de linguaxe grandes. As fontes do corpus son variadas e representan unha ampla gama de xéneros.
+
+O corpus está estruturado da seguinte maneira:
+
+| Subcorpus                             | Xénero              | Nº de tokens    | Nº de documentos |
+|---------------------------------------|---------------------|-----------------|------------------|
+| Datos obtidos mediante acordo de transferencia | Libros              | 7,255,784        | 104              |
+|                                       | Artigos de investigación | 2,665,351     | 664              |
+|                                       | Prensa              | 124,253,084      | 224,419          |
+|                                       | Gubernamental       | 245,897,880      | 654,505          |
+|                                       | Contidos web       | 15,946,686       | 44,165           |
+|                                       | Enciclopédico       | 4,799,214        | 47,396           |
+|                                       | Subtotal           | 400,817,999      | 971,253          |
+
+| Subcorpus                             | Xénero              | Nº de tokens    | Nº de documentos |
+|---------------------------------------|---------------------|-----------------|------------------|
+| Datos públicos                        | Prensa e blogs      | 153,497,883      | 665,265          |
+|                                       | Enciclopédico       | 57,164,848       | 184,628          |
+|                                       | Rastrexos web      | 1,384,015,664    | 3,366,449        |
+|                                       | Corpora de tradución | 133,726,004    | 4,745,799        |
+|                                       | Subtotal           | 1,728,404,399    | 8,777,514        |
+|                                       | Total              | 2,129,222,398    | 9,748,767        |
+| Descarga (Zenodo)                     | https://zenodo.org/records/10687642             |      
+
+
+Seguindo esta estrutura, o corpus contén dúas carpetas para cada subcorpus e dentro de cada subcorpus, pódense atopar carpetas cos diferentes xéneros. Os ficheiros están en formato de texto plano (*.txt) e os documentos individuais dentro de cada ficheiro están separados por dous saltos de liña.
+
+Nota: Algúns dos ficheiros referidos poden faltar nesta versión do corpus debido a acordos de transferencia pendentes e serán incluídos nunha versión futura do corpus en canto estean dispoñibles para a súa publicación.   
 
 ## Recoñecemento da fala (ASR)
 
