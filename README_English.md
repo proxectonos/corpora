@@ -19,17 +19,18 @@ The corpus is structured as follows:
 |                                       | Web contents        | 15,946,686     | 44,165       |
 |                                       | Encyclopedic        | 4,799,214      | 47,396       |
 |                                       | Subtotal            | 400,817,999    | 971,253      |
+
+| Subcorpus                             | Genre               | Nº tokens      | Nº documents |
 |---------------------------------------|---------------------|----------------|--------------|
 | Public data                           | Press and blogs     | 153,497,883    | 665,265      |
 |                                       | Encyclopedic        | 57,164,848     | 184,628      |
 |                                       | Web crawls          | 1,384,015,664  | 3,366,449    |
 |                                       | Translation corpora | 133,726,004    | 4,745,799    |
 |                                       | Subtotal            | 1,728,404,399  | 8,777,514    |
-|---------------------------------------|---------------------|----------------|--------------|
 |                                       | Total               | 2,129,222,398  | 9,748,767    |
-|---------------------------------------|---------------------|----------------|--------------|
+
 | Download (Zenodo)                     | https://zenodo.org/records/10687642                 |                                    
-|---------------------------------------|-----------------------------------------------------|
+
 
 
 Following this structure, the corpus contains two folders for each subcorpus and within each subcorpus, folders with the different genres can be found. Files are in plain text format (*.txt) and individual documents inside each file are separated by two line breaks.
