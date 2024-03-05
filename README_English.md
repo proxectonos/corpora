@@ -2,7 +2,7 @@
 
 In this section you can find several text and speech corpora in Galician (both monolingual and multilingual) that can be adapted for different tasks. All these resources can be downloaded under an open-source license from this [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) site. Zenodo is a general-purpose open repository managed by CERN and developed in the area of the European program OpenAIRE: an open-source network for repositories, files and journals that support open-source policies in Europe. 
 
-## Text corpus
+## Text corpus (Massive Corpus)
 
 ### Nos_CorpusNOS-GL
 
