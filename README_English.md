@@ -28,7 +28,6 @@ The corpus is structured as follows:
 |                                       | Translation corpora | 133,726,004    | 4,745,799    |
 |                                       | Subtotal            | 1,728,404,399  | 8,777,514    |
 |                                       | Total               | 2,129,222,398  | 9,748,767    |
-
 | Download (Zenodo)                     | https://zenodo.org/records/10687642                 |                                    
 
 
