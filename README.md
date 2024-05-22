@@ -36,6 +36,12 @@ Seguindo esta estrutura, o corpus contén dúas carpetas para cada subcorpus e d
 
 Nota: Algúns dos ficheiros referidos poden faltar nesta versión do corpus debido a acordos de transferencia pendentes e serán incluídos nunha versión futura do corpus en canto estean dispoñibles para a súa publicación.   
 
+Se usas o CorpusNÓS para o teu traballo, por favor, cita a seguinte publicación:
+
+de-Dios-Flores, Iria, Silvia Paniagua Suárez, Cristina Carbajal Pérez, Daniel Bardanca Outeiriño, Marcos Garcia and Pablo Gamallo. 2024. CorpusNÓS: A massive Galician corpus for training large language models. Proceedings of the 16th International Conference on Computational Processing of Portuguese - ACL Anthology (Volume 1), 593-599.
+
+https://aclanthology.org/2024.propor-1.66.pdf
+
 ## Recoñecemento da fala (ASR)
 
 Neste apartado describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
