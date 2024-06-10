@@ -34,7 +34,9 @@ O corpus está estruturado da seguinte maneira:
 
 Seguindo esta estrutura, o corpus contén dúas carpetas para cada subcorpus e dentro de cada subcorpus, pódense atopar carpetas cos diferentes xéneros. Os ficheiros están en formato de texto plano (*.txt) e os documentos individuais dentro de cada ficheiro están separados por dous saltos de liña.
 
-Nota: Algúns dos ficheiros referidos poden faltar nesta versión do corpus debido a acordos de transferencia pendentes e serán incluídos nunha versión futura do corpus en canto estean dispoñibles para a súa publicación.   
+Nota: Algúns dos ficheiros referidos poden faltar nesta versión do corpus debido a acordos de transferencia pendentes e serán incluídos nunha versión futura do corpus en canto estean dispoñibles para a súa publicación.
+
+Nota: Os seguintes subcorpus teñen diferentes licenzas que corresponden coas súas licenzas orixinais, tal e como se especifica no paper: TED2020 (CC BY–NC–ND 4.0), mC4 (Apache License 2.0), OSCAR (CC0). 
 
 Se usas o CorpusNÓS para o teu traballo, por favor, cita a seguinte publicación:
 
