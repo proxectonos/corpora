@@ -36,6 +36,8 @@ Following this structure, the corpus contains two folders for each subcorpus and
 
 Note: Some of the files referenced may be missing in this version of the corpus due to pending transfer agreements and they will be included in a future version of the corpus as soon as they are available for publishing.
 
+Note: Please, note that the following subcorpora have different licenses which correspond to their original licenses as specified in the paper: TED2020 (CC BY–NC–ND 4.0), mC4 (Apache License 2.0), OSCAR (CC0).
+
 If you use CorpusNÓS for your work, please, cite as:
 
 de-Dios-Flores, Iria, Silvia Paniagua Suárez, Cristina Carbajal Pérez, Daniel Bardanca Outeiriño, Marcos Garcia and Pablo Gamallo. 2024. CorpusNÓS: A massive Galician corpus for training large language models. Proceedings of the 16th International Conference on Computational Processing of Portuguese - ACL Anthology (Volume 1), 593-599.
