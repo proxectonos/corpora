@@ -108,11 +108,11 @@ Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e a
 O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,078 horas, 14,541 horas e 14,537 horas, respectivamente. 
 A versión orixinal deste conxunto de datos, en formato STM e o audio non segmento pode atopar en Zenodo (proximamente). 
 
-| Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
-| ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |
-| Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |
-| Nos_RG-Podcast-GL    | gl             | Forzado (ad hoc)      | Forzado                | 328 hours                     | Proximamente|
+| Nome do Corpus       | Lingua/s    | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo)                       |  Descargar (Hugging Face) |
+| ---------------------| ----------- | --------------------- | ---------------------- |------------------------------ |------------------------------------------| ------------------------------------------------- |             
+| Nos_ParlaSpeech-GL   | gl          | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |[URL]([https://zenodo.org/record/7913218](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL)) |
+| Nos_TranscriSpeech-GL| gl          | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL) |
+| Nos_RG-Podcast-GL    | gl          | Forzado (ad hoc)      | Forzado                | 328 hours                     | Proximamente                             |[URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL) |
 
 
 ## Síntese de voz (TTS)
@@ -140,11 +140,10 @@ Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un 
 Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
 
 
-| Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
-| --------------------  | -------------- | -----------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
-| Nos_Brais-GL          | gl             |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)                                       |
-
+| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   | Descargar (Hugging Face)  | 
+| --------------------  | -----------| -----------------------------|----------------------------------------------------- |------------------------------------|
+| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)|[URL](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-graphemes) [URL](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) |
+| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            |[URL](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-phonemes) |
 
 ## Tradución automática
 
