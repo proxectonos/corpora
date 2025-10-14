@@ -67,11 +67,52 @@ O corpus divídese en catro subcorpus temáticos: Conferencias, Entrevistas, Deb
 
 Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44.1 kHz e 16 bits, e os ficheiros de texto aliñado en formato STM e TRF. Acompáñase o corpus dos metadatos para cada locutor e da guía empregada na realización das transcricións.
 
+### Nos_RG-Podcast-GL
+Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e aliñamento automáticos en galego deseñado para tarefas de recoñecemento da fala (ASR). Este corpus inclúe 33 series de podcasts en galego organizadas en sete xéneros principais: cultura, sociedade, historia, igualdade, ciencia, humor e ficción. Na seguinte táboa recóllense o título, xénero, número de capítulos e duración total de cada programa. 
+
+| Título                           | Xénero         | Número de episodios | Duración total da serie (h)    |                       
+| -------------------------------- | -------------- | ------------------- | ------------------------------ |                
+| 21-dias-co-galego                | cultura        | 23                  | 4,329                          | 
+| a-fin-do-mundo                   | sociedade      | 5                   | 3,781                          | 
+| apalabradas                      | sociedade      | 33                  | 9,872                          |                    
+| arqueoloxia-historia             | historia       | 16                  | 2,749                          |                    
+| arte                             | cultura        | 20                  | 2,526                          |                    
+| teatro-artes-escenicas           | cultura        | 20                  | 2,628                          |                    
+| audiovisual                      | cultura        | 30                  | 5,008                          |                    
+| como-que-non                     | humor          | 76                  | 77,672                         |                    
+| consellos-con-sexo               | igualdade      | 25                  | 5,983                          |                    
+| deborah-ciencia                  | ciencia        | 28                  | 6,7914                         |                    
+| efemirdas                        | historia       | 28                  | 6,078                          |                    
+| enfermeira-saturada              | ciencia        | 27                  | 6,279                          |   
+| escoitamos-teatro                | cultura        | 6                   | 2,735                          |   
+| florencio-o-poeta-de-valdeorras  | cultura        | 5                   | 1,398                          |   
+| galicia-para-neofalantes         | cultura        | 9                   | 1,646                          |   
+| lambóns-de-viaxe                 | cultura        | 5                   | 4,568                          |   
+| libros                           | cultura        | 47                  | 7,813                          |   
+| medio-ambiente                   | sociedade      | 43                  | 12,085                         |      
+| moito-ollo                       | igualdade      | 20                  | 8,651                          |     
+| morra-o-conto                    | igualdade      | 35                  | 4,422                          |     
+| morte-na-abadia                  | ficción        | 1                   | 0,320                          |     
+| o-barroquista                    | historia       | 45                  | 10,049                         |     
+| o-impostor                       | humor          | 8                   | 7,319                          |     
+| o-poigrama                       | sociedade      | 44                  | 10,503                         |     
+| os-pobres-si-que-choran          | ficción        | 62                  | 8,734                          |     
+| paseo-polo-museo                 | cultura        | 1                   | 0,655                          |     
+| poesia                           | cultura        | 35                  | 4,972                          |     
+| proxima-estacion                 | historia       | 6                   | 1,247                          |     
+| start-up-galicia                 | sociedade      | 5                   | 2,043                          | 
+| superando-a-ficcion              | sociedade      | 21                  | 7,920                          | 
+| un-ollo-de-vidro                 | ficción        | 7                   | 3,004                          | 
+| zeta                             | cultura        | 88                  | 94,248                         | 
+
+O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,078 horas, 14,541 horas e 14,537 horas, respectivamente. 
+A versión orixinal deste conxunto de datos, en formato STM e o audio non segmento pode atopar en Zenodo (proximamente). 
 
 | Nome do Corpus       | Lingua/s       | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo) |
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |
 | Nos_TranscriSpeech-GL| gl             | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |
+| Nos_RG-Podcast-GL    | gl             | Forzado (ad hoc)      | Forzado                | 328 hours                     | Proximamente|
 
 
 ## Síntese de voz (TTS)
