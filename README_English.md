@@ -130,10 +130,18 @@ The corpus was recorded in a controlled environment (recording studio) by a prof
 
 Audio files are available in the original recording format (48 kHz, 16-bit WAV format) and they have a duration of 25 hours approximately.
 
+### Nos_Brais-GL
+Galician TTS single speaker corpus of approximately 18 hours of speech. 
+
+Nos_Brais-GL is based on a phonetically and morphosyntactically rich text corpus of 16,121 sentences (approximately 168,000 words) comprising three subcorpora: selected phrases from a corpus compiled by the Nós Project from multi-domain texts and previously used in the Nos_Celtia-GL TTS corpus; selected phrases from a previously compiled corpus created by the Multimedia Technology Group (GTM) and the CRPIH (Centro Ramón Piñeiro para a Investigación en Humanidades); and, finally, a 500-word phonetically rich single-word subcorpus extracted from the Pronunciation dictionary of the Galician language (Dicionario de pronuncia da lingua galega). 
+Nos_Brais-GL was recorded in a controlled environment (recording studio) by a professional male voice talent selected among three speakers through a perceptual listening test in which 37 participants assessed the speakers’ clarity, prosody, likeability and language proficiency.
+
+The audio files are available in the original recording format (48 kHz, 24-bit WAV format) and they have a duration about 18 hours approximately. 
 
 | Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
 | --------------------  | -------------- | -------------------------------|---------------------------------- |
 | Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
+| Nos_Brais-GL          | gl             |  ~18 hours (16,121 sentences)  | [URL](https://zenodo.org/records/8027725)                                       |
 
 
 ## Machine Translation
