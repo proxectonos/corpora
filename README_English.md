@@ -71,41 +71,41 @@ Automatically transcribed and speech-to-text aligned Galician dataset of 328 hou
 
 | Title                            | Genre          | No. of episodes  | Total duration of program (h)  |                       
 | -------------------------------- | -------------- | ---------------- | ------------------------------ |                
-| 21-dias-co-galego                | culture        | 23               | 4.329                          | 
-| a-fin-do-mundo                   | society        | 5                | 3.781                          | 
-| apalabradas                      | society        | 33               | 9.872                          |                    
-| arqueoloxia-historia             | history        | 16               | 2.749                          |                    
-| arte                             | culture        | 20               | 2.526                          |                    
-| teatro-artes-escenicas           | culture        | 20               | 2.628                          |                    
-| audiovisual                      | culture        | 30               | 5.008                          |                    
-| como-que-non                     | humor          | 76               | 77.672                         |                    
-| consellos-con-sexo               | equality       | 25               | 5.983                          |                    
-| deborah-ciencia                  | science        | 28               | 6.7914                         |                    
-| efemirdas                        | history        | 28               | 6.078                          |                    
-| enfermeira-saturada              | science        | 27               | 6.279                          |   
-| escoitamos-teatro                | culture        | 6                | 2.735                          |   
-| florencio-o-poeta-de-valdeorras  | culture        | 5                | 1.398                          |   
-| galicia-para-neofalantes         | culture        | 9                | 1.646                          |   
-| lambóns-de-viaxe                 | culture        | 5                | 4.568                          |   
-| libros                           | culture        | 47               | 7.813                          |   
-| medio-ambiente                   | society        | 43               | 12.085                         |      
-| moito-ollo                       | equality       | 20               | 8.651                          |     
-| morra-o-conto                    | equality       | 35               | 4.422                          |     
-| morte-na-abadia                  | fiction        | 1                | 0.320                          |     
-| o-barroquista                    | history        | 45               | 10.049                         |     
-| o-impostor                       | humor          | 8                | 7.319                          |     
-| o-poigrama                       | society        | 44               | 10.503                         |     
-| os-pobres-si-que-choran          | fiction        | 62               | 8.734                          |     
-| paseo-polo-museo                 | culture        | 1                | 0.655                          |     
-| poesia                           | culture        | 35               | 4.972                          |     
-| proxima-estacion                 | history        | 6                | 1.247                          |     
-| start-up-galicia                 | society        | 5                | 2.043                          | 
-| superando-a-ficcion              | society        | 21               | 7.920                          | 
-| un-ollo-de-vidro                 | fiction        | 7                | 3.004                          | 
-| zeta                             | culture        | 88               | 94.248                         | 
+| 21-dias-co-galego                | culture        | 23               | 4,329                          | 
+| a-fin-do-mundo                   | society        | 5                | 3,781                          | 
+| apalabradas                      | society        | 33               | 9,872                          |                    
+| arqueoloxia-historia             | history        | 16               | 2,749                          |                    
+| arte                             | culture        | 20               | 2,526                          |                    
+| teatro-artes-escenicas           | culture        | 20               | 2,628                          |                    
+| audiovisual                      | culture        | 30               | 5,008                          |                    
+| como-que-non                     | humor          | 76               | 77,672                         |                    
+| consellos-con-sexo               | equality       | 25               | 5,983                          |                    
+| deborah-ciencia                  | science        | 28               | 6,7914                         |                    
+| efemirdas                        | history        | 28               | 6,078                          |                    
+| enfermeira-saturada              | science        | 27               | 6,279                          |   
+| escoitamos-teatro                | culture        | 6                | 2,735                          |   
+| florencio-o-poeta-de-valdeorras  | culture        | 5                | 1,398                          |   
+| galicia-para-neofalantes         | culture        | 9                | 1,646                          |   
+| lambóns-de-viaxe                 | culture        | 5                | 4,568                          |   
+| libros                           | culture        | 47               | 7,813                          |   
+| medio-ambiente                   | society        | 43               | 12,085                         |      
+| moito-ollo                       | equality       | 20               | 8,651                          |     
+| morra-o-conto                    | equality       | 35               | 4,422                          |     
+| morte-na-abadia                  | fiction        | 1                | 0,320                          |     
+| o-barroquista                    | history        | 45               | 10,049                         |     
+| o-impostor                       | humor          | 8                | 7,319                          |     
+| o-poigrama                       | society        | 44               | 10,503                         |     
+| os-pobres-si-que-choran          | fiction        | 62               | 8,734                          |     
+| paseo-polo-museo                 | culture        | 1                | 0,655                          |     
+| poesia                           | culture        | 35               | 4,972                          |     
+| proxima-estacion                 | history        | 6                | 1,247                          |     
+| start-up-galicia                 | society        | 5                | 2,043                          | 
+| superando-a-ficcion              | society        | 21               | 7,920                          | 
+| un-ollo-de-vidro                 | fiction        | 7                | 3,004                          | 
+| zeta                             | culture        | 88               | 94,248                         | 
 
 
-The dataset is divided into three partitions “train”, “dev” and “test”, consisting of 259.078 hours, 14.541 hours and 14.537 hours, respectively. 
+The dataset is divided into three partitions “train”, “dev” and “test”, consisting of 259,078 hours, 14,541 hours and 14,537 hours, respectively. 
 The original version of this dataset, in STM format and non-segmented audio, can be found in Zenodo (soon).  
 
 
@@ -113,7 +113,7 @@ The original version of this dataset, in STM format and non-segmented audio, can
 | ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [URL](https://zenodo.org/record/7913218) |
 | Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [URL](https://zenodo.org/record/7717140) |
-| Nos_RG-Podcast-GL    | gl             | Forced (ad hoc)       | Forced                 | 328 hours                     | [URL](soon)|
+| Nos_RG-Podcast-GL    | gl             | Forced (ad hoc)       | Forced                 | 328 hours                     | Soon|
 
 
 ## Speech Synthesis (TTS)
