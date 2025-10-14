@@ -140,10 +140,10 @@ Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un 
 Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
 
 
-| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   | Descargar (Hugging Face)  | 
-| --------------------  | -----------| -----------------------------|----------------------------------------------------- |------------------------------------|
-| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)|[URL](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-graphemes) [URL](https://huggingface.co/proxectonos/Nos_TTS-celtia-vits-phonemes) |
-| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            |[URL](https://huggingface.co/proxectonos/Nos_TTS-brais-vits-phonemes) |
+| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   | 
+| --------------------  | -----------| -----------------------------|----------------------------------------------------- |
+| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)|
+| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            |
 
 ## Tradución automática
 
