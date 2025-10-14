@@ -110,7 +110,7 @@ A versión orixinal deste conxunto de datos, en formato STM e o audio non segmen
 
 | Nome do Corpus       | Lingua/s    | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo)                       |  Descargar (Hugging Face) |
 | ---------------------| ----------- | --------------------- | ---------------------- |------------------------------ |------------------------------------------| ------------------------------------------------- |             
-| Nos_ParlaSpeech-GL   | gl          | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |[URL]([https://zenodo.org/record/7913218](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL)) |
+| Nos_ParlaSpeech-GL   | gl          | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL) |
 | Nos_TranscriSpeech-GL| gl          | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL) |
 | Nos_RG-Podcast-GL    | gl          | Forzado (ad hoc)      | Forzado                | 328 hours                     | Proximamente                             |[URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL) |
 
