@@ -67,7 +67,7 @@ The corpus is divided into four thematic subcorpora: conferences, interviews, de
 Audio files within the corpus are available in WAV format and aligned text files in STM and TRF formats. Moreover, the corpus is accompanied by the corresponding speaker metadata and the guide that was used for the manual transcription.
 
 ### Nos_RG-Podcast-GL
-Automoatically transcribed and speech-to-text aligned Galician dataset of 328 hours, designed for automatic speech recognition (ASR) tasks. It includes 33 podcast series in Galician, organized into seven main genres: culture, society, history, equality, science, humor, and fiction. The following table provides the title, genre, number of episodes, and total duration of each program. 
+Automatically transcribed and speech-to-text aligned Galician dataset of 328 hours, designed for automatic speech recognition (ASR) tasks. It includes 33 podcast series in Galician, organized into seven main genres: culture, society, history, equality, science, humor, and fiction. The following table provides the title, genre, number of episodes, and total duration of each program. 
 
 | Title                            | Genre          | No. of episodes  | Total duration of program (h)  |                       
 | -------------------------------- | -------------- | ---------------- | ------------------------------ |                
