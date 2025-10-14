@@ -129,10 +129,21 @@ O corpus foi gravado nun ambiente controlado (estudio de gravación) por unha vo
 
 Os arquivos de son están dispoñibles no mesmo formato da gravación orixinal: 48 kHz e 16 bits en formato WAV e teñen unha duración de aproximadamente 25 horas.
 
+### Nos_Brais-GL
+
+Corpus de voz monolocutor para TTS en galego de aproximadamente 18 horas de discurso.  
+
+Nos_Brais-GL é un corpus textual fonética e morfosintacticamente balanceado de 16.121 frases (aproximadamente 168.000 palabras) que comprende tres subcorpus: frases seleccionadas dun corpus compilado polo Proxecto Nós a partir de textos multidominio e utilizados  no corpus TTS Nos_Celtia-GL; frases seleccionadas dun corpus previamente compilado polo Grupo de Tecnoloxía Multimedia (GTM) e o Centro Ramón Piñeiro para a Investigación en Humanidades (CRPIH); e, finalmente, un subcorpus de 500 palabras foneticamente rico extraído do Dicionario de pronuncia da lingua galega. 
+
+Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un locutor profesional masculino seleccionado entre tres locutores mediante unha proba de escoita perceptiva na que 37 participantes avaliaron a claridade, a prosodia, a agradabilidade e o nivel de lingua. 
+
+Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
+
 
 | Nome do Corpus        | Lingua/s       | Detalles                     | Descargar (Zenodo)                |
 | --------------------  | -------------- | -----------------------------|---------------------------------- |
 | Nos_Celtia-GL         | gl             |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
+| Nos_Brais-GL          | gl             |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)                                       |
 
 
 ## Tradución automática
