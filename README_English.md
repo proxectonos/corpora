@@ -110,7 +110,7 @@ The original version of this dataset, in STM format and non-segmented audio, can
 
 
 | Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  |
-| ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|                
+| ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------|       
 | Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [URL](https://zenodo.org/record/7913218) |
 | Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [URL](https://zenodo.org/record/7717140) |
 | Nos_RG-Podcast-GL    | gl             | Forced (ad hoc)       | Forced                 | 328 hours                     | Soon|
