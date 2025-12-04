@@ -69,7 +69,7 @@ Os ficheiros de audio contidos no corpus están dispoñibles en formato WAV a 44
 
 ### Nos_RG-Podcast-GL
 Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e aliñamento automáticos en galego deseñado para tarefas de recoñecemento da fala (ASR). Este corpus inclúe 33 series de podcasts en galego organizadas en sete xéneros principais: cultura, sociedade, historia, igualdade, ciencia, humor e ficción. Na seguinte táboa recóllense o título, xénero, número de capítulos e duración total de cada programa. 
-
+<!--
 | Título                           | Xénero         | Número de episodios | Duración total da serie (h)    |                       
 | -------------------------------- | -------------- | ------------------- | ------------------------------ |                
 | 21-dias-co-galego                | cultura        | 23                  | 4,329                          | 
@@ -104,7 +104,7 @@ Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e a
 | superando-a-ficcion              | sociedade      | 21                  | 7,920                          | 
 | un-ollo-de-vidro                 | ficción        | 7                   | 3,004                          | 
 | zeta                             | cultura        | 88                  | 94,248                         | 
-
+-->
 O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,078 horas, 14,541 horas e 14,537 horas, respectivamente. 
 A versión orixinal deste conxunto de datos, en formato STM e o audio non segmento pode atopar en Zenodo (proximamente). 
 
