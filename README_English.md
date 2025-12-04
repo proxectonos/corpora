@@ -1,6 +1,6 @@
 # Corpus 
 
-In this section you can find several text and speech corpora in Galician (both monolingual and multilingual) that can be adapted for different tasks. All these resources can be downloaded under an open-source license from this [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) site. Zenodo is a general-purpose open repository managed by CERN and developed in the area of the European program OpenAIRE: an open-source network for repositories, files and journals that support open-source policies in Europe. 
+In this section you can find several text and speech corpora in Galician (both monolingual and multilingual) that can be adapted for different tasks. All these resources can be downloaded under an open-source license from [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) and [Hugging Face](https://huggingface.co/proxectonos). Zenodo is a general-purpose open repository managed by CERN and developed in the area of the European program OpenAIRE: an open-source network for repositories, files and journals that support open-source policies in Europe. Hugging Face is a platform that facilitates access, reproducibility, and the sharing of resources for research and the development of AI-based technologies.
 
 ## Text corpus (Massive Corpus)
 
@@ -68,7 +68,7 @@ Audio files within the corpus are available in WAV format and aligned text files
 
 ### Nos_RG-Podcast-GL
 Automatically transcribed and speech-to-text aligned Galician dataset of 328 hours, designed for automatic speech recognition (ASR) tasks. It includes 33 podcast series in Galician, organized into seven main genres: culture, society, history, equality, science, humor, and fiction. The following table provides the title, genre, number of episodes, and total duration of each program. 
-
+<!--
 | Title                            | Genre          | No. of episodes  | Total duration of program (h)  |                       
 | -------------------------------- | -------------- | ---------------- | ------------------------------ |                
 | 21-dias-co-galego                | culture        | 23               | 4,329                          | 
@@ -103,17 +103,22 @@ Automatically transcribed and speech-to-text aligned Galician dataset of 328 hou
 | superando-a-ficcion              | society        | 21               | 7,920                          | 
 | un-ollo-de-vidro                 | fiction        | 7                | 3,004                          | 
 | zeta                             | culture        | 88               | 94,248                         | 
+-->
 
+The dataset is divided into three partitions “train”, “dev” and “test”, consisting of 259,07 hours, 14,54 hours and 14,53 hours, respectively. 
 
-The dataset is divided into three partitions “train”, “dev” and “test”, consisting of 259,078 hours, 14,541 hours and 14,537 hours, respectively. 
-The original version of this dataset, in STM format and non-segmented audio, can be found in Zenodo (soon).  
+### Nos_Telexornais-GL
 
+Nos_Telexornais-GL is a dataset of more than 1,100 hours of speech and text with automatic transcription and alignment in Galician using the [Chirp2](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-2) model, designed for automatic speech recognition (ASR) tasks. This corpus includes data from the CRTVG news broadcasts from 2019 and 2022, made available under the terms of the data-sharing agreement signed with this institution.
 
-| Corpus Name          | Language/s     | Transcription         | Alignment              | Details                       | Download (Zenodo)  | Download (Hugging Face)  |
-| ---------------------| -------------- | --------------------- | ---------------------- |------------------------------ |--------------------| ------------------------|    
-| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)   | [URL](https://zenodo.org/record/7913218) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL)
-| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)   | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL)
-| Nos_RG-Podcast-GL    | gl             | Forced (ad hoc)       | Forced                 | 328 hours                     | Soon| [URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL)
+The dataset is divided into two subsets, “clean” (662.17 hours) and “other” (509.93). To ensure high transcription quality, the output of Chirp2 was compared with Mozilla’s Whisper-large-v3-gl, and only those segments with a WER below 15% between models were included in the “clean” subcorpus; the remaining ones were assigned to “other”. In addition, a manual review was carried out to correct the most serious errors.
+
+| Corpus Name          | Language/s     | Transcription         | Alignment              | Details                          | Download (Zenodo)  | Download (Hugging Face)  |
+| ---------------------| -------------- | --------------------- | ---------------------- |--------------------------------- |--------------------| -------------------------|    
+| Nos_ParlaSpeech-GL   | gl             | Manual (Parliament)   | Forced                 | ~1,700 hours (~1M segments)      | [URL](https://zenodo.org/record/7913218) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL)
+| Nos_TranscriSpeech-GL| gl             | Manual (ad hoc)       | Manual                 | 53 hours (~40,000 segments)      | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL)
+| Nos_RG-Podcast-GL    | gl             | Forced (ad hoc)       | Forced                 | 328 hours                        | Coming soon | [URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL)
+| Nos_Telexornais-GL   | gl             | Forced (ad hoc)       | Forced                 | ~1,170 hours (~147,000 segments) | Coming soon | [URL](https://huggingface.co/datasets/proxectonos/Nos_Telexornais-GL)
 
 
 ## Speech Synthesis (TTS)
@@ -139,10 +144,10 @@ Nos_Brais-GL was recorded in a controlled environment (recording studio) by a pr
 
 The audio files are available in the original recording format (48 kHz, 24-bit WAV format) and they have a duration about 18 hours approximately. 
 
-| Corpus Name           | Language/s     | Details                        | Download (Zenodo)                 |
-| --------------------  | -------------- | -------------------------------|---------------------------------- |
-| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)                           |
-| Nos_Brais-GL          | gl             |  ~18 hours (16,121 sentences)  | [URL](https://zenodo.org/records/8027725)                                       |
+| Corpus Name           | Language/s     | Details                        | Download (Zenodo)                        | Download (Hugging Face)                                         |
+| --------------------  | -------------- | -------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| Nos_Celtia-GL         | gl             |  ~25 hours (20,000 sentences)  | [URL](https://zenodo.org/records/7716958)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL)|
+| Nos_Brais-GL          | gl             |  ~18 hours (16,121 sentences)  | [URL](https://zenodo.org/records/8027725)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL) |
 
 
 ## Machine Translation
