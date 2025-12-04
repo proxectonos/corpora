@@ -1,7 +1,7 @@
 English text [here](https://github.com/proxectonos/corpora/blob/main/README_English.md)
 
 # Corpus
-Nesta sección podes acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do noso site en [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20). Zenodo é un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa.
+Nesta sección podes acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do noso site en [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) e [Hugging Face](https://huggingface.co/proxectonos). Zenodo é un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa. Hugging Face é unha plataforma que facilita o acceso, a reproducibilidade e a compartición de recursos para a investigación e a creación de tecnoloxías baseadas en IA.
 
 ## Corpus de texto (Macrocorpus)
 
@@ -108,7 +108,7 @@ Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e a
 O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,07 horas, 14,54 horas e 14,53 horas, respectivamente. 
 
 ### Nos_Telexornais-GL
-Nos_Nos_Telexornais-GL é un corpus de máis de 1100 horas de voz e texto con transcrición e aliñamento automáticos en galego empregando o modelo [Chirp2](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-2), deseñado para tarefas de recoñecemento da fala (ASR). Este corpus inclúe datos dos informativos da CRTVG dos anos 2019 e 2022, que se dispoñibilizan segundo os termos do acordo de cesión de datos asinado con esta institución.
+Nos_Telexornais-GL é un corpus de máis de 1100 horas de voz e texto con transcrición e aliñamento automáticos en galego empregando o modelo [Chirp2](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-2), deseñado para tarefas de recoñecemento da fala (ASR). Este corpus inclúe datos dos informativos da CRTVG dos anos 2019 e 2022, que se dispoñibilizan segundo os termos do acordo de cesión de datos asinado con esta institución.
 
 O corpus divídese en dous subconxuntos, "clean" (662,17 horas) e "other" (509,93). Para garantir unha alta calidade das transcricións, comparouse a saída de Chirp2 coa de Whisper-large-v3-gl de Mozilla e incluíronse no subcorpus "clean" só aqueles segmentos cun WER inferior ao 15% entre modelos; os restantes pasaron ao subcorpus "other". Ademais, realizouse unha revisión manual para corrixir os erros máis graves.
 
@@ -146,10 +146,10 @@ Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un 
 Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
 
 
-| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   |  Descargar (Hugging Face)                                        |
-| --------------------  | -----------| -----------------------------|----------------------------------------------------- |------------------------------------------------------------------|
-| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
-| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            | [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL)  |
+| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                        |  Descargar (Hugging Face)                                        |
+| --------------------  | -----------| -----------------------------|-------------------------------------------|------------------------------------------------------------------|
+| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL]((https://zenodo.org/records/7716958)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
+| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725) | [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL)  |
 
 ## Tradución automática
 
