@@ -105,14 +105,20 @@ Nos_RG-Podcast-GL é un corpus de 328 horas de voz e texto con transcrición e a
 | un-ollo-de-vidro                 | ficción        | 7                   | 3,004                          | 
 | zeta                             | cultura        | 88                  | 94,248                         | 
 -->
-O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,078 horas, 14,541 horas e 14,537 horas, respectivamente. 
-A versión orixinal deste conxunto de datos, en formato STM e o audio non segmento pode atopar en Zenodo (proximamente). 
+O conxunto de datos está dividido en tres particións "train", "dev" e "test" que constan de 259,07 horas, 14,54 horas e 14,53 horas, respectivamente. 
 
-| Nome do Corpus       | Lingua/s    | Transcrición          | Aliñamento             | Detalles                      | Descargar (Zenodo)                       |  Descargar (Hugging Face) |
-| ---------------------| ----------- | --------------------- | ---------------------- |------------------------------ |------------------------------------------| ------------------------------------------------- |             
-| Nos_ParlaSpeech-GL   | gl          | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)  | [URL](https://zenodo.org/record/7913218) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL) |
-| Nos_TranscriSpeech-GL| gl          | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)  | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL) |
-| Nos_RG-Podcast-GL    | gl          | Forzado (ad hoc)      | Forzado                | 328 hours                     | Proximamente                             |[URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL) |
+### Nos_Telexornais-GL
+Nos_Nos_Telexornais-GL é un corpus de máis de 1100 horas de voz e texto con transcrición e aliñamento automáticos en galego empregando o modelo [Chirp2](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-2), deseñado para tarefas de recoñecemento da fala (ASR). Este corpus inclúe datos dos informativos da CRTVG dos anos 2019 e 2022, que se dispoñibilizan segundo os termos do acordo de cesión de datos asinado con esta institución.
+
+O corpus divídese en dous subconxuntos, "clean" (662,17 horas) e "other" (509,93). Para garantir unha alta calidade das transcricións, comparouse a saída de Chirp2 coa de Whisper-large-v3-gl de Mozilla e incluíronse no subcorpus "clean" só aqueles segmentos cun WER inferior ao 15% entre modelos; os restantes pasaron ao subcorpus "other". Ademais, realizouse unha revisión manual para corrixir os erros máis graves.
+
+
+| Nome do Corpus       | Lingua/s    | Transcrición          | Aliñamento             | Detalles                          | Descargar (Zenodo)                       |  Descargar (Hugging Face) |
+| ---------------------| ----------- | --------------------- | ---------------------- |---------------------------------- |------------------------------------------| ------------------------------------------------- |             
+| Nos_ParlaSpeech-GL   | gl          | Manual (Parlamento)   | Forzado                | ~1.700 horas (~1M segmentos)      | [URL](https://zenodo.org/record/7913218) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Parlaspeech-GL) |
+| Nos_TranscriSpeech-GL| gl          | Manual (ad-hoc)       | Manual                 | 53 horas (~40.000 segmentos)      | [URL](https://zenodo.org/record/7717140) |[URL](https://huggingface.co/datasets/proxectonos/Nos_Transcrispeech-GL) |
+| Nos_RG-Podcast-GL    | gl          | Forzado (ad hoc)      | Forzado                | 328 horas                         | Proximamente                             |[URL](https://huggingface.co/datasets/proxectonos/Nos_RG-Podcast-GL) |
+| Nos_Telexornais-GL   | gl          | Forzado (ad hoc)      | Forzado                | ~1.170 horas (~147.000 segmentos) | Proximamente                             |[URL](https://huggingface.co/datasets/proxectonos/Nos_Telexornais-GL) |
 
 
 ## Síntese de voz (TTS)
@@ -140,10 +146,10 @@ Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un 
 Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
 
 
-| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   | 
-| --------------------  | -----------| -----------------------------|----------------------------------------------------- |
-| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)|
-| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            |
+| Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                                   |  Descargar (Hugging Face)                                        |
+| --------------------  | -----------| -----------------------------|----------------------------------------------------- |------------------------------------------------------------------|
+| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/record/7716958#.ZAtZm3bMJD8)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
+| Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725)            | [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL)  |
 
 ## Tradución automática
 
