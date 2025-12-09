@@ -145,11 +145,17 @@ Nos_Brais-GL foi gravado nun ambiente controlado (estudio de gravación) por un 
 
 Os arquivos de son están dispoñibles no formato de gravación orixinal (formato WAV de 48 kHz e 24 bits) e teñen unha duración aproximada de 18 horas. 
 
+<!--
+### CRPIH_UVigo-GL-Voices
+CRPIH_UVigo-GL-Voices é un corpus de voz multilocutor para TTS en galego que contén gravacións de catro falantes diferentes (dúas voces femininas e dúas masculinas). Levouse a cabo unha tarefa de revisión e ampliación dos dous corpus de voces reducidos (1.316 frases), Iago e Paulo, co obxectivo de cubrir os déficits identificados. Engadíronse un total de 350 frases que foron sintetizadas a partir dos modelos Iago e Paulo. 
+-->
+
 
 | Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                        |  Descargar (Hugging Face)                                        |
 | --------------------  | -----------| -----------------------------|-------------------------------------------|------------------------------------------------------------------|
 | Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/records/7716958)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
 | Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725) | [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL)  |
+<!--| CRPIH_UVigo-GL-Voices         | gl         |  ~  ???? | [URL](https://zenodo.org/records/8027725) | [URL](https://huggingface.co/datasets/proxectonos/CRPIH_UVigo-GL-Voices)  |-->
 
 ## Tradución automática
 
