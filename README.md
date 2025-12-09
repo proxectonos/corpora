@@ -148,7 +148,7 @@ Os arquivos de son están dispoñibles no formato de gravación orixinal (format
 
 | Nome do Corpus        | Lingua/s   | Detalles                     | Descargar (Zenodo)                        |  Descargar (Hugging Face)                                        |
 | --------------------  | -----------| -----------------------------|-------------------------------------------|------------------------------------------------------------------|
-| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL]((https://zenodo.org/records/7716958)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
+| Nos_Celtia-GL         | gl         |  ~25 horas (20.000 frases)   | [URL](https://zenodo.org/records/7716958)| [URL](https://huggingface.co/datasets/proxectonos/Nos_Celtia-GL) |
 | Nos_Brais-GL          | gl         |  ~18 horas (16.121 frases)   | [URL](https://zenodo.org/records/8027725) | [URL](https://huggingface.co/datasets/proxectonos/Nos_Brais-GL)  |
 
 ## Tradución automática
