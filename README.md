@@ -64,7 +64,7 @@ No repositorio [Instruction datasets](https://github.com/proxectonos/instruction
 * **Resolución de tarefas**: [multi\_lmentry](https://huggingface.co/datasets/BSC-LT/multi_lmentry)
 * **Razoamento no espazo físico**: [Global PIQA](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel)  
 * **Aceptabilidade lingüística**: [Galcola](https://huggingface.co/datasets/proxectonos/galcola)  
-* **Identificación de paráfrases**: [parafrases_gl](https://huggingface.co/datasets/proxectonos/parafrases_gl)  
+* **Identificación de paráfrases**: [parafrases_gl](https://huggingface.co/datasets/proxectonos/parafrases_gl), [PAWS-gl](https://huggingface.co/datasets/proxectonos/PAWS-gl)
 * **Inferencia lingüística**: [xnli\_gl](https://huggingface.co/datasets/proxectonos/xnli_gl)
 
 ## Recoñecemento da fala (ASR)
