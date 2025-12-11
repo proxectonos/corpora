@@ -44,27 +44,29 @@ de-Dios-Flores, Iria, Silvia Paniagua Suárez, Cristina Carbajal Pérez, Daniel 
 
 https://aclanthology.org/2024.propor-1.66.pdf
 
+### Corpus orientados a tarefas
+
+* **Deteción de entidades nomeadas (NER)**: [NER](https://huggingface.co/datasets/proxectonos/NER)
+* **Análise de sentimento**: [sentimento-gl](https://huggingface.co/datasets/proxectonos/sentimento-gl)
+* **Parallel Universal Dependencies**: [UD\_Galician-PUD](https://huggingface.co/datasets/proxectonos/UD_Galician-PUD)
+
+### Datasets para instrución de modelos
+
+No repositorio [Instruction datasets](https://github.com/proxectonos/instruction_datasets)
+
 ### Conxuntos de avaliación
 
-* **Resposta múltiple**:
-  * *OpenbookQA*:
-  * *VeritasQA*:
-  * *ThruthfulQA*:
-* **Comprensión textual**:
-  * *Belebele*:
-  * *XStoryCloze*:
-* **Aceptabilidad lingüística**:
-  * *Galcola*:
-* **Habilidades xerativas**:
-  * *Calame*:
-* **Razoamento no espazo físico**:
-  * *Global PIQA*:
-* **Identificación de paráfrases**:
-  * *parafrases\_gl*:
-* **Creación de resumos**:
-  * *summarization\_gl*:
-* **Inferencia lingüística**:
-  * *xnli*: 
+* **Resposta múltiple**: [OpenbookQA](https://huggingface.co/datasets/proxectonos/openbookqa_gl), [VeritasQA](https://huggingface.co/datasets/projecte-aina/veritasQA), [ThruthfulQA](https://huggingface.co/datasets/proxectonos/truthfulqa_gl)
+* **Comprensión textual**: [Belebele](https://huggingface.co/datasets/proxectonos/belebele_gl), [XStoryCloze](https://huggingface.co/datasets/proxectonos/xstorycloze_gl)  
+* **Creación de resumos**: [summarization_gl](https://huggingface.co/datasets/proxectonos/summarization_gl)  
+* **Habilidades xerativas**: [Calame](https://github.com/proxectonos/calame-gl)
+* **Habilidades matemáticas** [mgsm_gl](https://huggingface.co/datasets/proxectonos/mgsm_gl)
+* **Resolución de tarefas**: [multi\_lmentry](https://huggingface.co/datasets/BSC-LT/multi_lmentry)
+* **Razoamento no espazo físico**: [Global PIQA](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel)  
+* **Aceptabilidade lingüística**: [Galcola](https://huggingface.co/datasets/proxectonos/galcola)  
+* **Identificación de paráfrases**: [parafrases_gl](https://huggingface.co/datasets/proxectonos/parafrases_gl)  
+* **Inferencia lingüística**: [xnli\_gl](https://huggingface.co/datasets/proxectonos/xnli_gl)
+
 ## Recoñecemento da fala (ASR)
 
 Neste apartado describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
