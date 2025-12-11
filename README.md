@@ -3,9 +3,9 @@ English text [here](https://github.com/proxectonos/corpora/blob/main/README_Engl
 # Corpus
 Nesta sección podes acceder a distintos corpus de texto ou voz en galego (monolingües e multilingües), que poden ser adaptados para diferentes tarefas. Todos estes recursos poden ser descargados con licenzas libres a partir do noso site en [Zenodo](https://zenodo.org/communities/proxecto-nos/?page=1&size=20) e [Hugging Face](https://huggingface.co/proxectonos). Zenodo é un repositorio aberto de uso xeral administrado polo CERN e desenvolvido no ámbito do programa europeo OpenAIRE: rede de repositorios, arquivos e periódicos de acceso aberto que apoia as políticas de acceso aberto na Europa. Hugging Face é unha plataforma que facilita o acceso, a reproducibilidade e a compartición de recursos para a investigación e a creación de tecnoloxías baseadas en IA.
 
-## Corpus de texto (Macrocorpus)
+## Corpus de texto
 
-### Nos_CorpusNOS-GL
+### Nos_CorpusNOS-GL (Macrocorpus)
 
 CorpusNÓS é un corpus masivo para a lingua galega composto por 2.1 mil millóns palabras principalmente deseñado para adestrar modelos de linguaxe grandes. As fontes do corpus son variadas e representan unha ampla gama de xéneros.
 
@@ -44,6 +44,27 @@ de-Dios-Flores, Iria, Silvia Paniagua Suárez, Cristina Carbajal Pérez, Daniel 
 
 https://aclanthology.org/2024.propor-1.66.pdf
 
+### Conxuntos de avaliación
+
+* **Resposta múltiple**:
+  * *OpenbookQA*:
+  * *VeritasQA*:
+  * *ThruthfulQA*:
+* **Comprensión textual**:
+  * *Belebele*:
+  * *XStoryCloze*:
+* **Aceptabilidad lingüística**:
+  * *Galcola*:
+* **Habilidades xerativas**:
+  * *Calame*:
+* **Razoamento no espazo físico**:
+  * *Global PIQA*:
+* **Identificación de paráfrases**:
+  * *parafrases\_gl*:
+* **Creación de resumos**:
+  * *summarization\_gl*:
+* **Inferencia lingüística**:
+  * *xnli*: 
 ## Recoñecemento da fala (ASR)
 
 Neste apartado describimos corpus de texto e voz aliñados que poden empregarse para adestrar ou avaliar sistemas de recoñecemento da fala (ASR). Para este fin, o material sonoro debe segmentarse e aliñarse co texto correspondente, tarefa que pode realizarse de forma manual ou automática (aliñamento forzado). 
