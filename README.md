@@ -46,7 +46,7 @@ https://aclanthology.org/2024.propor-1.66.pdf
 
 ### Corpus orientados a tarefas
 
-* **Deteción de entidades nomeadas (NER)**: [NER](https://huggingface.co/datasets/proxectonos/NER)
+* **Deteción de entidades nomeadas (NER)**: [Galician_NER](https://huggingface.co/datasets/proxectonos/Galician_NER)
 * **Análise de sentimento**: [sentimento-gl](https://huggingface.co/datasets/proxectonos/sentimento-gl)
 * **Parallel Universal Dependencies**: [UD\_Galician-PUD](https://huggingface.co/datasets/proxectonos/UD_Galician-PUD)
 
